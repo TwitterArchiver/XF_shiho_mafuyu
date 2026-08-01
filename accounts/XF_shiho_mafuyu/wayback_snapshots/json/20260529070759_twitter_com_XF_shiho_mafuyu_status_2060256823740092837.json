@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060174402227240960"
+      ],
+      "media_source_tweet_id": [
+        "2060174405930799484"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060256823740092837",
+    "created_at": "2026-05-29T07:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060256823740092837"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 18,
+          "tag": "ぜんぶ壊して地獄で愛して"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463003957941391361",
+          "start": 3,
+          "username": "Ya2607520948"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRJRGiCSPb",
+          "end": 55,
+          "expanded_url": "https://x.com/Ya2607520948/status/2060174405930799484/photo/1",
+          "media_key": "3_2060174402227240960",
+          "start": 32,
+          "url": "https://t.co/eRJRGiCSPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060256823740092837",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060174405930799484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ya2607520948: #ぜんぶ壊して地獄で愛して https://t.co/eRJRGiCSPb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060174402227240960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc1tBwbgAAZVT6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060174402227240960"
+          ],
+          "media_source_tweet_id": [
+            "2060174405930799484"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060256823740092837",
+        "created_at": "2026-05-29T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060256823740092837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 18,
+              "tag": "ぜんぶ壊して地獄で愛して"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463003957941391361",
+              "start": 3,
+              "username": "Ya2607520948"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRJRGiCSPb",
+              "end": 55,
+              "expanded_url": "https://x.com/Ya2607520948/status/2060174405930799484/photo/1",
+              "media_key": "3_2060174402227240960",
+              "start": 32,
+              "url": "https://t.co/eRJRGiCSPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060256823740092837",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060174405930799484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ya2607520948: #ぜんぶ壊して地獄で愛して https://t.co/eRJRGiCSPb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060174402227240960"
+          ]
+        },
+        "author_id": "1463003957941391361",
+        "conversation_id": "2060174405930799484",
+        "created_at": "2026-05-29T01:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060174405930799484"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "ぜんぶ壊して地獄で愛して"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRJRGiCSPb",
+              "end": 37,
+              "expanded_url": "https://x.com/Ya2607520948/status/2060174405930799484/photo/1",
+              "media_key": "3_2060174402227240960",
+              "start": 14,
+              "url": "https://t.co/eRJRGiCSPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060174405930799484",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 16637,
+          "like_count": 2283,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "#ぜんぶ壊して地獄で愛して https://t.co/eRJRGiCSPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 222,
+          "like_count": 3684,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T04:38:28.000Z",
+        "description": "喜欢画画 喜欢晒太阳",
+        "id": "1463003957941391361",
+        "name": "海盗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958079499012292608/dogRaPKX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19826,
+          "following_count": 616,
+          "like_count": 4569,
+          "listed_count": 105,
+          "media_count": 391,
+          "tweet_count": 1032
+        },
+        "username": "Ya2607520948",
+        "verified": false
+      }
+    ]
+  }
+}

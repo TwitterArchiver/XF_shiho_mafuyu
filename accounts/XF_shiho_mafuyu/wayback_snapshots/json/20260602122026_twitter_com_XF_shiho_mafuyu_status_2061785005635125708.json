@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2061785005635125708",
+    "created_at": "2026-06-02T12:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061785005635125708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "810779795214581760",
+          "start": 3,
+          "username": "0b7cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061785005635125708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061650101572166106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0b7cm: 毒品分为四级：\n\n第四级：安眠药 一粒眠\n第三级：K他命\n第二级：大麻、安非他命、摇头丸 丧尸烟弹\n第一级：黑长直发黑丝姐姐让你躺在怀里摸摸你的头说「没事了 姐姐爱你」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2061785005635125708",
+        "created_at": "2026-06-02T12:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061785005635125708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "810779795214581760",
+              "start": 3,
+              "username": "0b7cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061785005635125708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061650101572166106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0b7cm: 毒品分为四级：\n\n第四级：安眠药 一粒眠\n第三级：K他命\n第二级：大麻、安非他命、摇头丸 丧尸烟弹\n第一级：黑长直发黑丝姐姐让你躺在怀里摸摸你的头说「没事了 姐姐爱你」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "810779795214581760",
+        "conversation_id": "2061650101572166106",
+        "created_at": "2026-06-02T03:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061650101572166106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061650101572166106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2191,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "毒品分为四级：\n\n第四级：安眠药 一粒眠\n第三级：K他命\n第二级：大麻、安非他命、摇头丸 丧尸烟弹\n第一级：黑长直发黑丝姐姐让你躺在怀里摸摸你的头说「没事了 姐姐爱你」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 230,
+          "like_count": 3859,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2060197582174040436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11279,
+          "following_count": 1284,
+          "like_count": 12200,
+          "listed_count": 23,
+          "media_count": 2579,
+          "tweet_count": 16792
+        },
+        "username": "0b7cm",
+        "verified": true
+      }
+    ]
+  }
+}

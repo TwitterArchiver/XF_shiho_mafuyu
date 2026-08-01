@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070613499508875264"
+      ],
+      "media_source_tweet_id": [
+        "2070613514700587378"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2070696213578723328",
+    "created_at": "2026-06-27T02:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T03:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070696213578723328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2056006547512205312",
+          "start": 3,
+          "username": "cursedxjpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQYRi2ITLD",
+          "end": 39,
+          "expanded_url": "https://x.com/cursedxjpg/status/2070613514700587378/video/1",
+          "media_key": "7_2070613499508875264",
+          "start": 16,
+          "url": "https://t.co/vQYRi2ITLD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070696213578723328",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 754
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070613514700587378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cursedxjpg: https://t.co/vQYRi2ITLD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8499,
+        "height": 560,
+        "media_key": "7_2070613499508875264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070613499508875264/pu/img/4kL2du6wuebJ9sNb.jpg",
+        "public_metrics": {
+          "view_count": 9925
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070613499508875264/pu/vid/avc1/282x270/ebk3PPlTVXwzisUr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070613499508875264/pu/vid/avc1/378x360/_i1DGj7rz39WPk9K.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070613499508875264/pu/vid/avc1/588x560/JaXuEQhmNzcguczt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070613499508875264/pu/pl/wWDSRl1AXWq2Mly9.m3u8?tag=12"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070613499508875264"
+          ],
+          "media_source_tweet_id": [
+            "2070613514700587378"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2070696213578723328",
+        "created_at": "2026-06-27T02:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070696213578723328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2056006547512205312",
+              "start": 3,
+              "username": "cursedxjpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQYRi2ITLD",
+              "end": 39,
+              "expanded_url": "https://x.com/cursedxjpg/status/2070613514700587378/video/1",
+              "media_key": "7_2070613499508875264",
+              "start": 16,
+              "url": "https://t.co/vQYRi2ITLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070696213578723328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 754
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070613514700587378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cursedxjpg: https://t.co/vQYRi2ITLD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070613499508875264"
+          ]
+        },
+        "author_id": "2056006547512205312",
+        "conversation_id": "2070613514700587378",
+        "created_at": "2026-06-26T21:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T22:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070613514700587378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQYRi2ITLD",
+              "end": 23,
+              "expanded_url": "https://x.com/cursedxjpg/status/2070613514700587378/video/1",
+              "media_key": "7_2070613499508875264",
+              "start": 0,
+              "url": "https://t.co/vQYRi2ITLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070613514700587378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 28291,
+          "like_count": 1946,
+          "quote_count": 19,
+          "reply_count": 6,
+          "retweet_count": 754
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vQYRi2ITLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n我是智障",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 254,
+          "like_count": 4999,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2230
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T13:39:12.000Z",
+        "description": "folder",
+        "id": "2056006547512205312",
+        "name": "cursed.jpg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057177222985756672/R5RphQ7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 7,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "cursedxjpg",
+        "verified": false
+      }
+    ]
+  }
+}

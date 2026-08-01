@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2072246956433277250",
+    "created_at": "2026-07-01T09:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072246956433277250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/der4ngedstalke…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/der4ngedstalker/status/2071844517746241815",
+          "start": 16,
+          "url": "https://t.co/57eGNyinSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072246956433277250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071844517746241815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草啊我还真和线下朋友说过这个。 https://t.co/57eGNyinSK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2072246956433277250",
+        "created_at": "2026-07-01T09:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072246956433277250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/der4ngedstalke…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/der4ngedstalker/status/2071844517746241815",
+              "start": 16,
+              "url": "https://t.co/57eGNyinSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072246956433277250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071844517746241815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草啊我还真和线下朋友说过这个。 https://t.co/57eGNyinSK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505012566728261633",
+        "conversation_id": "2071844517746241815",
+        "created_at": "2026-06-30T06:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071844517746241815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071844517746241815",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 37982,
+          "like_count": 6114,
+          "quote_count": 29,
+          "reply_count": 25,
+          "retweet_count": 2037
+        },
+        "reply_settings": "everyone",
+        "text": "No sirvo para consolar a nadie, si me dices q quieres suicidarte capaz te diga q nos suicidemos juntos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 251,
+          "like_count": 5324,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T02:50:07.000Z",
+        "description": "#obstwt  #doltwt #suicidetwt          🇨🇱\n                   ♤    DNI: zoo, pedo, antis\n    ⛑️💉  #menherakei #ouji  †",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "obstwt"
+              },
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "doltwt"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "tag": "menherakei"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "ouji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/der4ngedstalker",
+                "end": 23,
+                "expanded_url": "https://ngl.link/der4ngedstalker",
+                "start": 0,
+                "url": "https://t.co/veXZNlLjMK"
+              }
+            ]
+          }
+        },
+        "id": "1505012566728261633",
+        "name": "𝐈𝐠𝐧𝐚 𓆪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069478043572228096/BxfE0ozD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 1047,
+          "like_count": 5156,
+          "listed_count": 4,
+          "media_count": 163,
+          "tweet_count": 8633
+        },
+        "url": "https://t.co/veXZNlLjMK",
+        "username": "der4ngedstalker",
+        "verified": false
+      }
+    ]
+  }
+}

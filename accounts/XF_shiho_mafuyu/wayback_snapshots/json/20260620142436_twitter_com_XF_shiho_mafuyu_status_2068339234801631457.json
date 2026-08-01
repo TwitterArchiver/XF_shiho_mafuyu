@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068306071098195968"
+      ],
+      "media_source_tweet_id": [
+        "2068306159463727416"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2068339234801631457",
+    "created_at": "2026-06-20T14:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068339234801631457"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "目代キョウコ"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "鶯餡子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827192172871032832",
+          "start": 3,
+          "username": "Edit_Name_cn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eCflIsq4ZW",
+          "end": 54,
+          "expanded_url": "https://x.com/Edit_Name_cn/status/2068306159463727416/photo/1",
+          "media_key": "3_2068306071098195968",
+          "start": 31,
+          "url": "https://t.co/eCflIsq4ZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068339234801631457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068306159463727416",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edit_Name_cn: #目代キョウコ\n#鶯餡子 https://t.co/eCflIsq4ZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2068306071098195968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQZac6XgAAlfjE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068306071098195968"
+          ],
+          "media_source_tweet_id": [
+            "2068306159463727416"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2068339234801631457",
+        "created_at": "2026-06-20T14:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068339234801631457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "目代キョウコ"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "鶯餡子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827192172871032832",
+              "start": 3,
+              "username": "Edit_Name_cn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCflIsq4ZW",
+              "end": 54,
+              "expanded_url": "https://x.com/Edit_Name_cn/status/2068306159463727416/photo/1",
+              "media_key": "3_2068306071098195968",
+              "start": 31,
+              "url": "https://t.co/eCflIsq4ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068339234801631457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068306159463727416",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edit_Name_cn: #目代キョウコ\n#鶯餡子 https://t.co/eCflIsq4ZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068306071098195968"
+          ]
+        },
+        "author_id": "1827192172871032832",
+        "conversation_id": "2068306159463727416",
+        "created_at": "2026-06-20T12:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068306159463727416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "目代キョウコ"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "鶯餡子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCflIsq4ZW",
+              "end": 36,
+              "expanded_url": "https://x.com/Edit_Name_cn/status/2068306159463727416/photo/1",
+              "media_key": "3_2068306071098195968",
+              "start": 13,
+              "url": "https://t.co/eCflIsq4ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068306159463727416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#目代キョウコ\n#鶯餡子 https://t.co/eCflIsq4ZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 244,
+          "like_count": 4160,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T03:52:33.000Z",
+        "description": "你好！\n\n作品禁止无授权转载/使用（只是用于头像或背景图的话，OK！没问题！）",
+        "id": "1827192172871032832",
+        "name": "EDiT-nAme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057117264684457984/S4K-QZfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 94,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Edit_Name_cn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068558406739185664"
+      ],
+      "media_source_tweet_id": [
+        "2068558408991547524"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2068848670305607757",
+    "created_at": "2026-06-22T00:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068848670305607757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046395388974845952",
+          "start": 3,
+          "username": "eduantao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IgT2BUs653",
+          "end": 75,
+          "expanded_url": "https://x.com/eduantao/status/2068558408991547524/photo/1",
+          "media_key": "3_2068558406739185664",
+          "start": 52,
+          "url": "https://t.co/IgT2BUs653"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068848670305607757",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8596
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068558408991547524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eduantao: Entro no Twitter, falo sozinho e saio https://t.co/IgT2BUs653"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 123,
+        "media_key": "3_2068558406739185664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT-6UbWUAAMpSC.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068558406739185664"
+          ],
+          "media_source_tweet_id": [
+            "2068558408991547524"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068848670305607757",
+        "created_at": "2026-06-22T00:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068848670305607757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046395388974845952",
+              "start": 3,
+              "username": "eduantao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgT2BUs653",
+              "end": 75,
+              "expanded_url": "https://x.com/eduantao/status/2068558408991547524/photo/1",
+              "media_key": "3_2068558406739185664",
+              "start": 52,
+              "url": "https://t.co/IgT2BUs653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068848670305607757",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8596
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068558408991547524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eduantao: Entro no Twitter, falo sozinho e saio https://t.co/IgT2BUs653"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068558406739185664"
+          ]
+        },
+        "author_id": "2046395388974845952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068558408991547524",
+        "created_at": "2026-06-21T04:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068558408991547524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgT2BUs653",
+              "end": 61,
+              "expanded_url": "https://x.com/eduantao/status/2068558408991547524/photo/1",
+              "media_key": "3_2068558406739185664",
+              "start": 38,
+              "url": "https://t.co/IgT2BUs653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068558408991547524",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 312782,
+          "like_count": 23373,
+          "quote_count": 211,
+          "reply_count": 82,
+          "retweet_count": 8596
+        },
+        "reply_settings": "everyone",
+        "text": "Entro no Twitter, falo sozinho e saio https://t.co/IgT2BUs653"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 248,
+          "like_count": 4220,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 527,
+          "like_count": 92,
+          "listed_count": 3,
+          "media_count": 400,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

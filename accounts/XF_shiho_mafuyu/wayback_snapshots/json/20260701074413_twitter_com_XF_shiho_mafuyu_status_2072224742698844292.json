@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2072224742698844292",
+    "created_at": "2026-07-01T07:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072224742698844292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8mitchuu/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/8mitchuu/status/2071922193387458881",
+          "start": 11,
+          "url": "https://t.co/pT1Cgt7aNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072224742698844292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071922193387458881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特别喜欢这个女孩纸 https://t.co/pT1Cgt7aNW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2195,
+        "media_key": "3_2071922183492784128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDyP5VW0AAXvJq.jpg",
+        "width": 1092
+      },
+      {
+        "height": 1861,
+        "media_key": "3_2071922183585013760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDyP5rWIAAHeDh.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2072224742698844292",
+        "created_at": "2026-07-01T07:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072224742698844292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8mitchuu/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/8mitchuu/status/2071922193387458881",
+              "start": 11,
+              "url": "https://t.co/pT1Cgt7aNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072224742698844292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071922193387458881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别喜欢这个女孩纸 https://t.co/pT1Cgt7aNW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071922183492784128",
+            "3_2071922183585013760"
+          ]
+        },
+        "author_id": "2067436262102110208",
+        "conversation_id": "2071922193387458881",
+        "created_at": "2026-06-30T11:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071922193387458881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ioB0bx9eL",
+              "end": 40,
+              "expanded_url": "https://x.com/8mitchuu/status/2071922193387458881/photo/1",
+              "media_key": "3_2071922183492784128",
+              "start": 17,
+              "url": "https://t.co/6ioB0bx9eL"
+            },
+            {
+              "display_url": "pic.x.com/6ioB0bx9eL",
+              "end": 40,
+              "expanded_url": "https://x.com/8mitchuu/status/2071922193387458881/photo/1",
+              "media_key": "3_2071922183585013760",
+              "start": 17,
+              "url": "https://t.co/6ioB0bx9eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071922193387458881",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1503,
+          "impression_count": 983900,
+          "like_count": 12399,
+          "quote_count": 301,
+          "reply_count": 1,
+          "retweet_count": 1380
+        },
+        "reply_settings": "following",
+        "text": "노출 없이 정장에 롱코트 여캐 https://t.co/6ioB0bx9eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n我是智障",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 255,
+          "like_count": 5283,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T02:48:14.000Z",
+        "description": "마니마니껴안아주께요",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/8mitchuu",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/8mitchuu",
+                "start": 0,
+                "url": "https://t.co/fuUmYRD4Yv"
+              }
+            ]
+          }
+        },
+        "id": "2067436262102110208",
+        "name": "🍓🍯",
+        "pinned_tweet_id": "2071855988815409390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071029882809880576/XPVsV8S4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 29,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/fuUmYRD4Yv",
+        "username": "8mitchuu",
+        "verified": false
+      }
+    ]
+  }
+}

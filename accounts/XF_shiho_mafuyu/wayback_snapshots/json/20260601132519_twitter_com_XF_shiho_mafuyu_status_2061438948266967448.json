@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2061438948266967448",
+    "created_at": "2026-06-01T13:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061438948266967448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2026876224589701120",
+          "start": 3,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061438948266967448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061384307592298661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R1k0xo33w: 唉 我不赞成滥用药物 我指的是不了解自己吃的是什么 有什么主作用有什么副作用 禁忌是什么 和什么混会出事或者能不能混 只是逃避现实缓解痛苦 没必要自毁倾向一样吃那么多药 根据身体耐受调整 充分了解自己需要什么在做什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2061438948266967448",
+        "created_at": "2026-06-01T13:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061438948266967448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2026876224589701120",
+              "start": 3,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438948266967448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061384307592298661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R1k0xo33w: 唉 我不赞成滥用药物 我指的是不了解自己吃的是什么 有什么主作用有什么副作用 禁忌是什么 和什么混会出事或者能不能混 只是逃避现实缓解痛苦 没必要自毁倾向一样吃那么多药 根据身体耐受调整 充分了解自己需要什么在做什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026876224589701120",
+        "conversation_id": "2061384307592298661",
+        "created_at": "2026-06-01T09:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061384307592298661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061384307592298661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉 我不赞成滥用药物 我指的是不了解自己吃的是什么 有什么主作用有什么副作用 禁忌是什么 和什么混会出事或者能不能混 只是逃避现实缓解痛苦 没必要自毁倾向一样吃那么多药 根据身体耐受调整 充分了解自己需要什么在做什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 229,
+          "like_count": 3800,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废嗑药青年#混乱善良的孩子#",
+        "id": "2026876224589701120",
+        "location": "伽蓝洞",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 109,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 876
+        },
+        "username": "R1k0xo33w",
+        "verified": true
+      }
+    ]
+  }
+}

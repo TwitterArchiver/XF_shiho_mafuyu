@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2059279378383872491",
+    "created_at": "2026-05-27T12:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T13:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059612674657566893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058743029595516928",
+          "start": 0,
+          "username": "Yun6lyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059612674657566893",
+    "in_reply_to_user_id": "2058743029595516928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059279378383872491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yun6lyr 我操美神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059279373216468992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQHre3bUAA8jLN.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2059279378383872491",
+        "created_at": "2026-05-27T12:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059612674657566893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058743029595516928",
+              "start": 0,
+              "username": "Yun6lyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059612674657566893",
+        "in_reply_to_user_id": "2058743029595516928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059279378383872491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yun6lyr 我操美神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059279373216468992"
+          ]
+        },
+        "author_id": "2058743029595516928",
+        "conversation_id": "2059279378383872491",
+        "created_at": "2026-05-26T14:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059279378383872491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uybsyU4tM8",
+              "end": 26,
+              "expanded_url": "https://x.com/Yun6lyr/status/2059279378383872491/photo/1",
+              "media_key": "3_2059279373216468992",
+              "start": 3,
+              "url": "https://t.co/uybsyU4tM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059279378383872491",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6210,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素颜 https://t.co/uybsyU4tM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风\n本人已死。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/KBZkmqk4f4"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 207,
+          "like_count": 3530,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/KBZkmqk4f4",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T02:56:02.000Z",
+        "description": "11年｜双向｜od｜自伤 ｜LGBTQ+友好\n欢迎同类互fo喵",
+        "id": "2058743029595516928",
+        "name": "Yun",
+        "pinned_tweet_id": "2059175757990223921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058751152540581888/Vv5daAvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 107,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "username": "Yun6lyr",
+        "verified": false
+      }
+    ]
+  }
+}

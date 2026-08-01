@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068469730575630336"
+      ],
+      "media_source_tweet_id": [
+        "2068469786632454202"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2070388046617575756",
+    "created_at": "2026-06-26T06:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070388046617575756"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "地元最高FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1727622139182997504",
+          "start": 3,
+          "username": "_yasaisuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HdfbXlzVMW",
+          "end": 47,
+          "expanded_url": "https://x.com/_yasaisuki/status/2068469786632454202/video/1",
+          "media_key": "13_2068469730575630336",
+          "start": 24,
+          "url": "https://t.co/HdfbXlzVMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070388046617575756",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068469786632454202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yasaisuki: #地元最高FA https://t.co/HdfbXlzVMW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7533,
+        "height": 720,
+        "media_key": "13_2068469730575630336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068469730575630336/img/BtK-vsw42IItg0Dv.jpg",
+        "public_metrics": {
+          "view_count": 5782
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068469730575630336/vid/avc1/480x270/57YfyVN62_jPJT4x.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068469730575630336/vid/avc1/640x360/kaIOZ24coWoa6lPC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068469730575630336/vid/avc1/1280x720/tVR8PJS0kzAvPMEL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068469730575630336/pl/0vB6TsUdJ54EEkNT.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068469730575630336"
+          ],
+          "media_source_tweet_id": [
+            "2068469786632454202"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2070388046617575756",
+        "created_at": "2026-06-26T06:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070388046617575756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "地元最高FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1727622139182997504",
+              "start": 3,
+              "username": "_yasaisuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdfbXlzVMW",
+              "end": 47,
+              "expanded_url": "https://x.com/_yasaisuki/status/2068469786632454202/video/1",
+              "media_key": "13_2068469730575630336",
+              "start": 24,
+              "url": "https://t.co/HdfbXlzVMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070388046617575756",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068469786632454202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yasaisuki: #地元最高FA https://t.co/HdfbXlzVMW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068469730575630336"
+          ]
+        },
+        "author_id": "1727622139182997504",
+        "conversation_id": "2068469786632454202",
+        "created_at": "2026-06-20T23:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068469786632454202"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "地元最高FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdfbXlzVMW",
+              "end": 31,
+              "expanded_url": "https://x.com/_yasaisuki/status/2068469786632454202/video/1",
+              "media_key": "13_2068469730575630336",
+              "start": 8,
+              "url": "https://t.co/HdfbXlzVMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068469786632454202",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 11969,
+          "like_count": 610,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "#地元最高FA https://t.co/HdfbXlzVMW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 253,
+          "like_count": 4808,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2181
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T09:37:17.000Z",
+        "description": "雑多 下品 家主受け固定 地雷皆無🔑@bokkigatomaran_\n最近はペネと言う宇宙人OC描いてますブロ解自由",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "bokkigatomaran_"
+              }
+            ]
+          }
+        },
+        "id": "1727622139182997504",
+        "location": "重面アンチ",
+        "name": "ネムリ",
+        "pinned_tweet_id": "1882820164502364558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068826803926708224/OcgPNJ-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 907,
+          "like_count": 189913,
+          "listed_count": 3,
+          "media_count": 1034,
+          "tweet_count": 11343
+        },
+        "url": "",
+        "username": "_yasaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

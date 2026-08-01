@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2070380978858754111",
+    "created_at": "2026-06-26T06:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070388717722980834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1436142639213002752",
+          "start": 0,
+          "username": "mazuya_Yui494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070388717722980834",
+    "in_reply_to_user_id": "1436142639213002752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070380978858754111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mazuya_Yui494 宝宝留下😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2070380978858754111",
+        "created_at": "2026-06-26T06:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070388717722980834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1436142639213002752",
+              "start": 0,
+              "username": "mazuya_Yui494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070388717722980834",
+        "in_reply_to_user_id": "1436142639213002752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070380978858754111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mazuya_Yui494 宝宝留下😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436142639213002752",
+        "conversation_id": "2070380978858754111",
+        "created_at": "2026-06-26T05:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070380978858754111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070380978858754111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想杀了我爸妈然后去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 253,
+          "like_count": 4809,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T01:41:26.000Z",
+        "description": "我是柚柚\nshe/her/彼女/她\n简中⭕️繁中⭕️English⭕️日本語⭕️Italian⭕️\\\n性单恋/纸性恋\\07双相情感障碍高中生\\\n身体及人生状况一切糟糕…\n此号是我吐苦水下水道\n互fo欢迎，扩列欢迎",
+        "id": "1436142639213002752",
+        "name": "鵙屋柚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583437808898752512/bMY5fNpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 87,
+          "like_count": 3316,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "mazuya_Yui494",
+        "verified": false
+      }
+    ]
+  }
+}

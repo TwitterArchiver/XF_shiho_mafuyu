@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1744060721963401216"
+      ],
+      "media_source_tweet_id": [
+        "1744060777391116498"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2075093135315890374",
+    "created_at": "2026-07-09T05:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075093135315890374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761396725237870592",
+          "start": 3,
+          "username": "piupiu0kcal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADqcRovGwu",
+          "end": 77,
+          "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+          "media_key": "7_1744060721963401216",
+          "start": 54,
+          "url": "https://t.co/ADqcRovGwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075093135315890374",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2035
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074292265640505597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piupiu0kcal: “você não ta gorda, você ta gostosa” https://t.co/ADqcRovGwu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17858,
+        "height": 596,
+        "media_key": "7_1744060721963401216",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1744060721963401216/pu/img/yFdQ2JG8zLU8MHQ7.jpg",
+        "public_metrics": {
+          "view_count": 208070
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/vid/avc1/464x270/dsk_v-ig80F0RuIc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/vid/avc1/620x360/buC-Fl1usfTO9IZW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/vid/avc1/1028x596/ElR6oIX5rcrMgpNx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1744060721963401216/pu/pl/egxyvi3fxD1TjMQW.m3u8?tag=12&v=a15"
+          }
+        ],
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1744060721963401216"
+          ],
+          "media_source_tweet_id": [
+            "1744060777391116498"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2075093135315890374",
+        "created_at": "2026-07-09T05:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075093135315890374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761396725237870592",
+              "start": 3,
+              "username": "piupiu0kcal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADqcRovGwu",
+              "end": 77,
+              "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+              "media_key": "7_1744060721963401216",
+              "start": 54,
+              "url": "https://t.co/ADqcRovGwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075093135315890374",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2035
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074292265640505597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piupiu0kcal: “você não ta gorda, você ta gostosa” https://t.co/ADqcRovGwu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1744060721963401216"
+          ],
+          "media_source_tweet_id": [
+            "1744060777391116498"
+          ]
+        },
+        "author_id": "1761396725237870592",
+        "conversation_id": "2074292265640505597",
+        "created_at": "2026-07-07T00:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074292265640505597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADqcRovGwu",
+              "end": 60,
+              "expanded_url": "https://x.com/yas_cookies/status/1744060777391116498/video/1",
+              "media_key": "7_1744060721963401216",
+              "start": 37,
+              "url": "https://t.co/ADqcRovGwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074292265640505597",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1204,
+          "impression_count": 306813,
+          "like_count": 8569,
+          "quote_count": 113,
+          "reply_count": 33,
+          "retweet_count": 2035
+        },
+        "reply_settings": "everyone",
+        "text": "“você não ta gorda, você ta gostosa” https://t.co/ADqcRovGwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 235,
+          "like_count": 6024,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2461
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T14:24:50.000Z",
+        "description": "amo",
+        "id": "1761396725237870592",
+        "location": "edtwt🤍imc 17.5 // mf40kg",
+        "name": "piupiu",
+        "pinned_tweet_id": "2074881299915960728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031284830533505024/hyc4cGzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 409,
+          "like_count": 4102,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 1074
+        },
+        "url": "",
+        "username": "piupiu0kcal",
+        "verified": false
+      }
+    ]
+  }
+}

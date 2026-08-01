@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2077842872636784947",
+    "created_at": "2026-07-17T03:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077957377652085076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1436142639213002752",
+          "start": 0,
+          "username": "mazuya_Yui494"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077957377652085076",
+    "in_reply_to_user_id": "1436142639213002752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077842872636784947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mazuya_Yui494 不要欺负小动物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2077842872636784947",
+        "created_at": "2026-07-17T03:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077957377652085076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1436142639213002752",
+              "start": 0,
+              "username": "mazuya_Yui494"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077957377652085076",
+        "in_reply_to_user_id": "1436142639213002752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077842872636784947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mazuya_Yui494 不要欺负小动物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436142639213002752",
+        "conversation_id": "2077842872636784947",
+        "created_at": "2026-07-16T19:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077842872636784947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077842872636784947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虐待动物的都他妈死了呀我操。咋这么恶心呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 236,
+          "like_count": 6370,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2528
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T01:41:26.000Z",
+        "description": "我是柚柚\nshe/her/彼女/她\n简中⭕️繁中⭕️English⭕️日本語⭕️Italian⭕️\\\n性单恋/纸性恋\\07双相情感障碍高中生\\\n身体及人生状况一切糟糕…\n此号是我吐苦水下水道\n互fo欢迎，扩列欢迎",
+        "id": "1436142639213002752",
+        "name": "鵙屋柚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583437808898752512/bMY5fNpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 92,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "mazuya_Yui494",
+        "verified": false
+      }
+    ]
+  }
+}

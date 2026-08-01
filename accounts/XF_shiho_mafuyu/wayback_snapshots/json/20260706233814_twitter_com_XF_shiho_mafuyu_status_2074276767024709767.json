@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2074025823510904978",
+    "created_at": "2026-07-06T23:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074276767024709767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2016739686790696960",
+          "start": 0,
+          "username": "Ai_starry_"
+        },
+        {
+          "end": 22,
+          "id": "2073944895950299136",
+          "start": 12,
+          "username": "chyanming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074276767024709767",
+    "in_reply_to_user_id": "2016739686790696960",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074199853681250616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ai_starry_ @chyanming ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2074025823510904978",
+        "created_at": "2026-07-06T23:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074276767024709767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2016739686790696960",
+              "start": 0,
+              "username": "Ai_starry_"
+            },
+            {
+              "end": 22,
+              "id": "2073944895950299136",
+              "start": 12,
+              "username": "chyanming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074276767024709767",
+        "in_reply_to_user_id": "2016739686790696960",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074199853681250616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ai_starry_ @chyanming ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016739686790696960",
+        "conversation_id": "2074025823510904978",
+        "created_at": "2026-07-06T18:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074199853681250616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2073944895950299136",
+              "start": 0,
+              "username": "chyanming"
+            },
+            {
+              "end": 27,
+              "id": "2021200224388341760",
+              "start": 11,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074199853681250616",
+        "in_reply_to_user_id": "2073944895950299136",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074084567699632385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chyanming @XF_shiho_mafuyu Genial! Hazlo vos primero como ejemplo para mostrarnos como se hace, salamin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 230,
+          "like_count": 5766,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T05:06:57.000Z",
+        "description": "Fanduber,vtuber\nQuiero plasmar las emociones de los personajes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ai_starry?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ai_starry?si=cuRxfXWOoXkEv055",
+                "start": 0,
+                "url": "https://t.co/nQwqyzU3Rg"
+              }
+            ]
+          }
+        },
+        "id": "2016739686790696960",
+        "name": "🐰⭐AiStarry💫🍔🍂",
+        "pinned_tweet_id": "2017479129122193807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066891227081891840/fw8bZN3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 55,
+          "like_count": 5734,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/nQwqyzU3Rg",
+        "username": "Ai_starry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T01:40:14.000Z",
+        "description": "",
+        "id": "2073944895950299136",
+        "name": "chyanming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073956842523553792/ZZP1kAP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "chyanming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049169224304934912"
+      ],
+      "media_source_tweet_id": [
+        "2049169282383171889"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069701761355620840",
+    "created_at": "2026-06-24T08:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069701761355620840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5eeLdjboD",
+          "end": 109,
+          "expanded_url": "https://x.com/ewedunega/status/2049169282383171889/video/1",
+          "media_key": "13_2049169224304934912",
+          "start": 86,
+          "url": "https://t.co/z5eeLdjboD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069701761355620840",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069545184111509634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: vivir en casa de tus padres es gratis pero lo pagas con tu salud mental https://t.co/z5eeLdjboD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36000,
+        "height": 720,
+        "media_key": "13_2049169224304934912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049169224304934912/img/VHIc2gm7Pg2c6NO1.jpg",
+        "public_metrics": {
+          "view_count": 3759287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049169224304934912/vid/avc1/480x270/p5GljsvD38j_qfGL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049169224304934912/vid/avc1/640x360/mSfNd3C70p5STsTg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049169224304934912/vid/avc1/1280x720/1M9zJKGop4J7RTtx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049169224304934912/pl/1XsjzD-EEc1NbOnM.m3u8?v=796"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049169224304934912"
+          ],
+          "media_source_tweet_id": [
+            "2049169282383171889"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069701761355620840",
+        "created_at": "2026-06-24T08:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069701761355620840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5eeLdjboD",
+              "end": 109,
+              "expanded_url": "https://x.com/ewedunega/status/2049169282383171889/video/1",
+              "media_key": "13_2049169224304934912",
+              "start": 86,
+              "url": "https://t.co/z5eeLdjboD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069701761355620840",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069545184111509634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: vivir en casa de tus padres es gratis pero lo pagas con tu salud mental https://t.co/z5eeLdjboD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049169224304934912"
+          ],
+          "media_source_tweet_id": [
+            "2049169282383171889"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069545184111509634",
+        "created_at": "2026-06-23T22:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069545184111509634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5eeLdjboD",
+              "end": 95,
+              "expanded_url": "https://x.com/ewedunega/status/2049169282383171889/video/1",
+              "media_key": "13_2049169224304934912",
+              "start": 72,
+              "url": "https://t.co/z5eeLdjboD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069545184111509634",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 585503,
+          "like_count": 22432,
+          "quote_count": 240,
+          "reply_count": 81,
+          "retweet_count": 4301
+        },
+        "reply_settings": "everyone",
+        "text": "vivir en casa de tus padres es gratis pero lo pagas con tu salud mental https://t.co/z5eeLdjboD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 247,
+          "like_count": 4486,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "name": "miya",
+        "pinned_tweet_id": "2064045466979824033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061336333168115713/OYKdTzLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15704,
+          "following_count": 1953,
+          "like_count": 180528,
+          "listed_count": 129,
+          "media_count": 5944,
+          "tweet_count": 149170
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false
+      }
+    ]
+  }
+}

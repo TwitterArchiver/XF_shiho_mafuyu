@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060156691426197883",
+    "created_at": "2026-05-29T00:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T01:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060156691426197883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maedarikuonly1…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/maedarikuonly1/status/2059966160615919655",
+          "start": 2,
+          "url": "https://t.co/X7GLCX9y5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060156691426197883",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059966160615919655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/X7GLCX9y5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059966140432936964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZ4SmHWcAQmTcF.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060156691426197883",
+        "created_at": "2026-05-29T00:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060156691426197883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maedarikuonly1…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/maedarikuonly1/status/2059966160615919655",
+              "start": 2,
+              "url": "https://t.co/X7GLCX9y5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060156691426197883",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059966160615919655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/X7GLCX9y5u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059966140432936964"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059966160615919655",
+        "created_at": "2026-05-28T11:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059966160615919655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKZfTuTioS",
+              "end": 89,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2059966160615919655/photo/1",
+              "media_key": "3_2059966140432936964",
+              "start": 66,
+              "url": "https://t.co/CKZfTuTioS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059966160615919655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3204,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "青少年别再误入歧途学磕药了，这种行为不是反抗也不是小众，你心里想要的东西磕药这件事没办法给你，结局就是洗胃 血液透析 肾衰竭 死亡 https://t.co/CKZfTuTioS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 215,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "location": "Украина",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 63,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 627
+        },
+        "username": "Maedarikuonly1",
+        "verified": false
+      }
+    ]
+  }
+}

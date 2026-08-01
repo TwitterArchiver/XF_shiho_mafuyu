@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2070681470415561062",
+    "created_at": "2026-06-27T01:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070681470415561062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinn3rin/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/rinn3rin/status/2070390538558447832",
+          "start": 16,
+          "url": "https://t.co/Km5gGZ7UEE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070681470415561062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070390538558447832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦这个看起来好好吃，，馋哭了 https://t.co/Km5gGZ7UEE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3233,
+        "height": 1280,
+        "media_key": "13_2070390448024412160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070390448024412160/img/ctq0A2NPlNgvYJ7W.jpg",
+        "public_metrics": {
+          "view_count": 13119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070390448024412160/vid/avc1/320x568/5bULsLjC4pVHRo8h.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070390448024412160/vid/avc1/480x852/hbpm8kkmhsrIZp23.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070390448024412160/vid/avc1/720x1280/bkDlzMpX5OWCGoDN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070390448024412160/pl/_jplILoahMk0BXKA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2070681470415561062",
+        "created_at": "2026-06-27T01:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070681470415561062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinn3rin/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/rinn3rin/status/2070390538558447832",
+              "start": 16,
+              "url": "https://t.co/Km5gGZ7UEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070681470415561062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070390538558447832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦这个看起来好好吃，，馋哭了 https://t.co/Km5gGZ7UEE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070390448024412160"
+          ]
+        },
+        "author_id": "1872236576882995200",
+        "conversation_id": "2070390538558447832",
+        "created_at": "2026-06-26T06:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070390538558447832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iivOMcUKNt",
+              "end": 57,
+              "expanded_url": "https://x.com/rinn3rin/status/2070390538558447832/video/1",
+              "media_key": "13_2070390448024412160",
+              "start": 34,
+              "url": "https://t.co/iivOMcUKNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070390538558447832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 36491,
+          "like_count": 3194,
+          "quote_count": 25,
+          "reply_count": 24,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "NO YOU AREN'T ALLOWED TO HAVE ANY https://t.co/iivOMcUKNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n我是智障",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 253,
+          "like_count": 4946,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T11:03:50.000Z",
+        "description": "𖦹 🎀 Hi I'm Rin ⋆˚｡⋆ ⋆ She/Her mtf🏳️‍⚧️🏳️‍🌈20 Mizuchef 👩‍🍳🌸",
+        "id": "1872236576882995200",
+        "location": "🇵🇭",
+        "name": "Rin🕊️🎐(Mizuchef👩‍🍳)",
+        "pinned_tweet_id": "1974125454400639463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974880788299808768/BAvrhrk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 4005,
+          "like_count": 140447,
+          "listed_count": 3,
+          "media_count": 2210,
+          "tweet_count": 23661
+        },
+        "url": "",
+        "username": "rinn3rin",
+        "verified": false
+      }
+    ]
+  }
+}

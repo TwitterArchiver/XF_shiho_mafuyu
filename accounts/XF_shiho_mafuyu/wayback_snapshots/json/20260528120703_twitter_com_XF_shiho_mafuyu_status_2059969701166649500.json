@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2059969701166649500",
+    "created_at": "2026-05-28T12:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059969701166649500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ouo_qwqg/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ouo_qwqg/status/2059916080500633741",
+          "start": 4,
+          "url": "https://t.co/ezyX8jtZGt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059969701166649500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059916080500633741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓哭了 https://t.co/ezyX8jtZGt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30205,
+        "height": 818,
+        "media_key": "13_2059916007985274880",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059916007985274880/img/MZ7-oNOgjEDmv-t5.jpg",
+        "public_metrics": {
+          "view_count": 96
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059916007985274880/vid/avc1/320x362/YOE4a32Xf2HgFM6d.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059916007985274880/vid/avc1/480x544/mcLbTPFYIg5qxYIu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059916007985274880/vid/avc1/720x818/NSDdPBvcgQCFQ5Et.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059916007985274880/pl/zbhNTbZBbll-COdb.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2059969701166649500",
+        "created_at": "2026-05-28T12:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059969701166649500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ouo_qwqg/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ouo_qwqg/status/2059916080500633741",
+              "start": 4,
+              "url": "https://t.co/ezyX8jtZGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059969701166649500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059916080500633741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了 https://t.co/ezyX8jtZGt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059916007985274880"
+          ]
+        },
+        "author_id": "1652200117494231043",
+        "conversation_id": "2059916080500633741",
+        "created_at": "2026-05-28T08:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059916080500633741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDDmkfHAIv",
+              "end": 23,
+              "expanded_url": "https://x.com/OuO_QwQg/status/2059916080500633741/video/1",
+              "media_key": "13_2059916007985274880",
+              "start": 0,
+              "url": "https://t.co/qDDmkfHAIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059916080500633741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qDDmkfHAIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 213,
+          "like_count": 3598,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1797
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 65,
+          "like_count": 10582,
+          "listed_count": 4,
+          "media_count": 355,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

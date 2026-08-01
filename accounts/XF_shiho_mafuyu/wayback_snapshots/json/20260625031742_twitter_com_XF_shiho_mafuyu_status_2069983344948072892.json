@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2069691348513653142",
+    "created_at": "2026-06-25T03:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069983344948072892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2068973789678055424",
+          "start": 0,
+          "username": "uktpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069983344948072892",
+    "in_reply_to_user_id": "2068973789678055424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069691348513653142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uktpq 紫色的好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_2069691342452936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkFT22b0AAhssA.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2069691348513653142",
+        "created_at": "2026-06-25T03:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069983344948072892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2068973789678055424",
+              "start": 0,
+              "username": "uktpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069983344948072892",
+        "in_reply_to_user_id": "2068973789678055424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069691348513653142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uktpq 紫色的好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069691342452936704"
+          ]
+        },
+        "author_id": "2068973789678055424",
+        "conversation_id": "2069691348513653142",
+        "created_at": "2026-06-24T07:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069691348513653142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqKTuMsWCb",
+              "end": 37,
+              "expanded_url": "https://x.com/uktpq/status/2069691348513653142/photo/1",
+              "media_key": "3_2069691342452936704",
+              "start": 14,
+              "url": "https://t.co/dqKTuMsWCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069691348513653142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2661,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "規制される前( ᴗ˳ᴗ)⭐ https://t.co/dqKTuMsWCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 264,
+          "like_count": 4623,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2142
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T08:27:47.000Z",
+        "description": "ゆーってよんで‼️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/wak_anar?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/wak_anar?s=21",
+                "start": 0,
+                "url": "https://t.co/o8CmsfUIYC"
+              }
+            ]
+          }
+        },
+        "id": "2068973789678055424",
+        "name": "ᵤ",
+        "pinned_tweet_id": "2068975699290149303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068974591893221376/CrLUD6Rh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 17,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/o8CmsfUIYC",
+        "username": "uktpq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068402857125060608"
+      ],
+      "media_source_tweet_id": [
+        "2068402883347775602"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2068691459302436914",
+    "created_at": "2026-06-21T13:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068691459302436914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011397954033385472",
+          "start": 3,
+          "username": "yureiyks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CSAnWaAaRR",
+          "end": 37,
+          "expanded_url": "https://x.com/yureiyks/status/2068402883347775602/photo/1",
+          "media_key": "3_2068402857125060608",
+          "start": 14,
+          "url": "https://t.co/CSAnWaAaRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068691459302436914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068402883347775602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yureiyks: https://t.co/CSAnWaAaRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2068402857125060608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRxcI9XoAAh_Za.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068402857125060608"
+          ],
+          "media_source_tweet_id": [
+            "2068402883347775602"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2068691459302436914",
+        "created_at": "2026-06-21T13:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068691459302436914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011397954033385472",
+              "start": 3,
+              "username": "yureiyks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSAnWaAaRR",
+              "end": 37,
+              "expanded_url": "https://x.com/yureiyks/status/2068402883347775602/photo/1",
+              "media_key": "3_2068402857125060608",
+              "start": 14,
+              "url": "https://t.co/CSAnWaAaRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068691459302436914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068402883347775602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yureiyks: https://t.co/CSAnWaAaRR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068402857125060608"
+          ]
+        },
+        "author_id": "2011397954033385472",
+        "conversation_id": "2068402883347775602",
+        "created_at": "2026-06-20T18:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068402883347775602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSAnWaAaRR",
+              "end": 23,
+              "expanded_url": "https://x.com/yureiyks/status/2068402883347775602/photo/1",
+              "media_key": "3_2068402857125060608",
+              "start": 0,
+              "url": "https://t.co/CSAnWaAaRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068402883347775602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 45999,
+          "like_count": 4684,
+          "quote_count": 18,
+          "reply_count": 55,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CSAnWaAaRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 248,
+          "like_count": 4211,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2008
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T11:20:35.000Z",
+        "description": "🐈‍⬛🐈‍⬛🐈‍⬛",
+        "id": "2011397954033385472",
+        "name": "Yūrei 幽霊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011400249890537472/SzuN0KCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102927,
+          "following_count": 497,
+          "like_count": 3226,
+          "listed_count": 174,
+          "media_count": 1033,
+          "tweet_count": 2559
+        },
+        "url": "",
+        "username": "yureiyks",
+        "verified": true
+      }
+    ]
+  }
+}

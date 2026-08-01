@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2074363491868446823",
+    "created_at": "2026-07-07T07:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074394493340746067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040220115950583808",
+          "start": 0,
+          "username": "BobbyDelia95211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074394493340746067",
+    "in_reply_to_user_id": "2040220115950583808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074389765496156469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BobbyDelia95211 你是不是有毛病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2074363491868446823",
+        "created_at": "2026-07-07T07:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074394493340746067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040220115950583808",
+              "start": 0,
+              "username": "BobbyDelia95211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074394493340746067",
+        "in_reply_to_user_id": "2040220115950583808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074389765496156469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BobbyDelia95211 你是不是有毛病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040220115950583808",
+        "conversation_id": "2074363491868446823",
+        "created_at": "2026-07-07T07:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074389765496156469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074389765496156469",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "ca",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074363491868446823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XF_shiho_mafuyu Diplomatic, \n❤️\n Noble,\n🟧\n2026-07-07 15:07:14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 232,
+          "like_count": 5873,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T00:09:17.000Z",
+        "description": "小号禁言~私信姐 @viiig33 姐喜欢你的第一次♥只约处.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "viiig33"
+              }
+            ]
+          }
+        },
+        "id": "2040220115950583808",
+        "location": "距离你6.7公里",
+        "name": "曹沙玥♥免费破处♥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040220178730938368/5302CxoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "BobbyDelia95211",
+        "verified": false
+      }
+    ]
+  }
+}

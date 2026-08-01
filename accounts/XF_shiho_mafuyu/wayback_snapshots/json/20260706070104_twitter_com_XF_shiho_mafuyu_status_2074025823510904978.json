@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2074025823510904978",
+    "created_at": "2026-07-06T07:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074025823510904978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ariedarling/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ariedarling/status/2073930291719139446",
+          "start": 11,
+          "url": "https://t.co/RbOkAyCpyD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074025823510904978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073930291719139446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操，，好漂亮好完美 https://t.co/RbOkAyCpyD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15696,
+        "height": 1280,
+        "media_key": "7_1808681946739818496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808681946739818496/pu/img/g3njqH_djpyXj1g3.jpg",
+        "public_metrics": {
+          "view_count": 147427
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808681946739818496/pu/vid/avc1/320x568/zcdmvfVSXBPzlmhn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808681946739818496/pu/vid/avc1/480x852/_ewB1S89x88EADoC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808681946739818496/pu/vid/avc1/720x1280/-UctZMwgCvo1jOjW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808681946739818496/pu/pl/uwM2tmhromVl6FGr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2074025823510904978",
+        "created_at": "2026-07-06T07:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074025823510904978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ariedarling/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ariedarling/status/2073930291719139446",
+              "start": 11,
+              "url": "https://t.co/RbOkAyCpyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074025823510904978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073930291719139446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操，，好漂亮好完美 https://t.co/RbOkAyCpyD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1808681946739818496"
+          ],
+          "media_source_tweet_id": [
+            "1808681970928435632"
+          ]
+        },
+        "author_id": "1886729452941664312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2073930291719139446",
+        "created_at": "2026-07-06T00:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073930291719139446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfJR9lpQS2",
+              "end": 89,
+              "expanded_url": "https://x.com/lobitoluchon/status/1808681970928435632/video/1",
+              "media_key": "7_1808681946739818496",
+              "start": 66,
+              "url": "https://t.co/FfJR9lpQS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073930291719139446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1908,
+          "impression_count": 77498,
+          "like_count": 6879,
+          "quote_count": 18,
+          "reply_count": 46,
+          "retweet_count": 771
+        },
+        "reply_settings": "everyone",
+        "text": "Oh my! twitter only Ai SFX Make up.\nI NEED to know what she uses! https://t.co/FfJR9lpQS2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 238,
+          "like_count": 5714,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T10:52:23.000Z",
+        "description": "#shedtwt #shtwt #bloodtwt Open for moots. I’m 18 btw. SFX make up professional ;3 ifykyk (don’t report me just Bann or leave my acc!)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "shtwt"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "tag": "bloodtwt"
+              }
+            ]
+          }
+        },
+        "id": "1886729452941664312",
+        "location": "Cologne, Germany",
+        "name": "ASilentAriofshTwT",
+        "pinned_tweet_id": "2073592964547260863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073224510908579840/8Rt27hMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 68,
+          "like_count": 1405,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "Ariedarling",
+        "verified": false
+      }
+    ]
+  }
+}

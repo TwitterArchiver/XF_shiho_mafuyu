@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059666650366971904"
+      ],
+      "media_source_tweet_id": [
+        "2059666654057890120"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2059937133373382738",
+    "created_at": "2026-05-28T09:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059937133373382738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960827409315266560",
+          "start": 3,
+          "username": "LukaL24951"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M5xqgVQKla",
+          "end": 106,
+          "expanded_url": "https://x.com/LukaL24951/status/2059666654057890120/photo/1",
+          "media_key": "3_2059666650366971904",
+          "start": 83,
+          "url": "https://t.co/M5xqgVQKla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059937133373382738",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059666654057890120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LukaL24951: He conocido más gente amable y empática aquí en Twitter que en irl https://t.co/M5xqgVQKla"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2059666650366971904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVn5-rXkAAo2Aw.jpg",
+        "width": 681
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059666650366971904"
+          ],
+          "media_source_tweet_id": [
+            "2059666654057890120"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059937133373382738",
+        "created_at": "2026-05-28T09:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059937133373382738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960827409315266560",
+              "start": 3,
+              "username": "LukaL24951"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5xqgVQKla",
+              "end": 106,
+              "expanded_url": "https://x.com/LukaL24951/status/2059666654057890120/photo/1",
+              "media_key": "3_2059666650366971904",
+              "start": 83,
+              "url": "https://t.co/M5xqgVQKla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059937133373382738",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059666654057890120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LukaL24951: He conocido más gente amable y empática aquí en Twitter que en irl https://t.co/M5xqgVQKla"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059666650366971904"
+          ]
+        },
+        "author_id": "1960827409315266560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059666654057890120",
+        "created_at": "2026-05-27T16:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059666654057890120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5xqgVQKla",
+              "end": 90,
+              "expanded_url": "https://x.com/LukaL24951/status/2059666654057890120/photo/1",
+              "media_key": "3_2059666650366971904",
+              "start": 67,
+              "url": "https://t.co/M5xqgVQKla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059666654057890120",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 11628,
+          "like_count": 1322,
+          "quote_count": 10,
+          "reply_count": 46,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "He conocido más gente amable y empática aquí en Twitter que en irl https://t.co/M5xqgVQKla"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 211,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T22:11:33.000Z",
+        "description": "solo un adolescente proyectándose en x\n\nᜊ adicto al kebab\n\nᜊ 17 años \n\nᜊ pansexual\n\nᜊel/he\n\nᜊ ig:damiisito",
+        "id": "1960827409315266560",
+        "name": "⋆. 𐙚 ˚lukaa⋆. 𐙚 ˚",
+        "pinned_tweet_id": "2049438852985639216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046758016410660864/uo6kZOUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 549,
+          "like_count": 26515,
+          "listed_count": 9,
+          "media_count": 1833,
+          "tweet_count": 12914
+        },
+        "username": "LukaL24951",
+        "verified": false
+      }
+    ]
+  }
+}

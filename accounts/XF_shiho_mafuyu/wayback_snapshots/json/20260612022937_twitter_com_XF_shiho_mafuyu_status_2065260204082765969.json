@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2065260204082765969",
+    "created_at": "2026-06-12T02:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065260204082765969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055521229625262080",
+          "start": 3,
+          "username": "ynxxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065260204082765969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064732983928762552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynxxx_jjkk: 欢迎来到自残妹的世界，夏天到了。请选择以下的buff。\n1.30多度高温依然要穿长袖遮伤疤\n2.接上条，外界对穿着的疑问\n- “怎么这么热，你还穿长袖？”\n-“穿长袖你不热吗？”\n3.割完的伤口被汗水捂住红肿发炎\n4.夏天每天都要洗澡，伤口每天都…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2065260204082765969",
+        "created_at": "2026-06-12T02:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065260204082765969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055521229625262080",
+              "start": 3,
+              "username": "ynxxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065260204082765969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064732983928762552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynxxx_jjkk: 欢迎来到自残妹的世界，夏天到了。请选择以下的buff。\n1.30多度高温依然要穿长袖遮伤疤\n2.接上条，外界对穿着的疑问\n- “怎么这么热，你还穿长袖？”\n-“穿长袖你不热吗？”\n3.割完的伤口被汗水捂住红肿发炎\n4.夏天每天都要洗澡，伤口每天都…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055521229625262080",
+        "conversation_id": "2064732983928762552",
+        "created_at": "2026-06-10T15:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064732983928762552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064732983928762552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7623,
+          "like_count": 185,
+          "quote_count": 8,
+          "reply_count": 18,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到自残妹的世界，夏天到了。请选择以下的buff。\n1.30多度高温依然要穿长袖遮伤疤\n2.接上条，外界对穿着的疑问\n- “怎么这么热，你还穿长袖？”\n-“穿长袖你不热吗？”\n3.割完的伤口被汗水捂住红肿发炎\n4.夏天每天都要洗澡，伤口每天都要拆掉再包扎\n\n骗你的，其实没有的选\n现实情况是全部都叠加在一起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 227,
+          "like_count": 3975,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T05:30:39.000Z",
+        "description": "我的随笔病历本。\n前两个号都被封了，这是我的3.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/R72PhVmJRy"
+              }
+            ]
+          }
+        },
+        "id": "2055521229625262080",
+        "name": "旖旎3.0",
+        "pinned_tweet_id": "2062970664160809111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055521656643502080/L8pEAvzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 187,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/R72PhVmJRy",
+        "username": "ynxxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

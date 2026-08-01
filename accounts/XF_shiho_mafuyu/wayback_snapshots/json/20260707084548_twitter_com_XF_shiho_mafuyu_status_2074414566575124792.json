@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2074378615802970426",
+    "created_at": "2026-07-07T08:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074414566575124792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2030887349039886336",
+          "start": 0,
+          "username": "yunalobe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074414566575124792",
+    "in_reply_to_user_id": "2030887349039886336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074411552992866373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunalobe 🤤🤤🤤🤤🤤🤤🤤🤤🤤好唉我刚刚没看到你的推荐等我下次试试这个🤤🤤😗😗😗🙀👅👅😈😈你真好呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074411528372338688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnKS1qbwAAkauu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2074378615802970426",
+        "created_at": "2026-07-07T08:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074414566575124792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2030887349039886336",
+              "start": 0,
+              "username": "yunalobe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074414566575124792",
+        "in_reply_to_user_id": "2030887349039886336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074411552992866373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunalobe 🤤🤤🤤🤤🤤🤤🤤🤤🤤好唉我刚刚没看到你的推荐等我下次试试这个🤤🤤😗😗😗🙀👅👅😈😈你真好呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074411528372338688"
+          ]
+        },
+        "author_id": "2030887349039886336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074378615802970426",
+        "created_at": "2026-07-07T08:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074411552992866373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "XF_shiho_mafuyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG8uSRn4zD",
+              "end": 74,
+              "expanded_url": "https://x.com/yunalobe/status/2074411552992866373/photo/1",
+              "media_key": "3_2074411528372338688",
+              "start": 51,
+              "url": "https://t.co/pG8uSRn4zD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074411552992866373",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074378615802970426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XF_shiho_mafuyu 应该是爱喜巧克力味爆珠？有点忘记名字了。！不过这个很好抽而且甜甜的 https://t.co/pG8uSRn4zD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 233,
+          "like_count": 5887,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2424
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T06:04:22.000Z",
+        "description": "10/INFP/割o/fo就是喜欢你/想和友善的人一起玩💕 @AceTaffy812 是我妈妈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 30,
+                "username": "AceTaffy812"
+              }
+            ]
+          }
+        },
+        "id": "2030887349039886336",
+        "location": "亲密孤单症候群",
+        "name": "呐",
+        "pinned_tweet_id": "2061453962432360747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073678100236521473/uX1urUek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 77,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "yunalobe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060032908392570880"
+      ],
+      "media_source_tweet_id": [
+        "2060032912838508810"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060240904984961289",
+    "created_at": "2026-05-29T06:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060240904984961289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1391990762343067648",
+          "start": 3,
+          "username": "triche___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3CMSZrWxLt",
+          "end": 64,
+          "expanded_url": "https://x.com/triche___/status/2060032912838508810/photo/1",
+          "media_key": "3_2060032908392570880",
+          "start": 41,
+          "url": "https://t.co/3CMSZrWxLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060240904984961289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060032912838508810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @triche___: 沙耶 Saya\n이제 손 안 댈 것 같아서... https://t.co/3CMSZrWxLt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2060032908392570880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa1BAJaoAARuZP.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060032908392570880"
+          ],
+          "media_source_tweet_id": [
+            "2060032912838508810"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060240904984961289",
+        "created_at": "2026-05-29T06:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060240904984961289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1391990762343067648",
+              "start": 3,
+              "username": "triche___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CMSZrWxLt",
+              "end": 64,
+              "expanded_url": "https://x.com/triche___/status/2060032912838508810/photo/1",
+              "media_key": "3_2060032908392570880",
+              "start": 41,
+              "url": "https://t.co/3CMSZrWxLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060240904984961289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060032912838508810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @triche___: 沙耶 Saya\n이제 손 안 댈 것 같아서... https://t.co/3CMSZrWxLt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060032908392570880"
+          ]
+        },
+        "author_id": "1391990762343067648",
+        "conversation_id": "2060032912838508810",
+        "created_at": "2026-05-28T16:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060032912838508810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CMSZrWxLt",
+              "end": 49,
+              "expanded_url": "https://x.com/triche___/status/2060032912838508810/photo/1",
+              "media_key": "3_2060032908392570880",
+              "start": 26,
+              "url": "https://t.co/3CMSZrWxLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060032912838508810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 7683,
+          "like_count": 1095,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "沙耶 Saya\n이제 손 안 댈 것 같아서... https://t.co/3CMSZrWxLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 217,
+          "like_count": 3665,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T05:37:27.000Z",
+        "description": "TAWIWI days\n@anothertriche ←sub account",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "anothertriche"
+              }
+            ]
+          }
+        },
+        "id": "1391990762343067648",
+        "location": "Whitenight Academy",
+        "name": "Tri",
+        "pinned_tweet_id": "2024098183878782994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058520973398446080/nv8QThPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 91,
+          "like_count": 28816,
+          "listed_count": 0,
+          "media_count": 7894,
+          "tweet_count": 58397
+        },
+        "username": "triche___",
+        "verified": false
+      }
+    ]
+  }
+}

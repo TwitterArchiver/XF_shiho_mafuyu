@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071973198065807360"
+      ],
+      "media_source_tweet_id": [
+        "2071973208442687517"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      }
+    ],
+    "conversation_id": "2072172200350658573",
+    "created_at": "2026-07-01T04:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T05:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072172200350658573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983211936050491393",
+          "start": 3,
+          "username": "sss4ng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KwhX2A3qXE",
+          "end": 39,
+          "expanded_url": "https://x.com/sss4ng/status/2071973208442687517/photo/1",
+          "media_key": "3_2071973198065807360",
+          "start": 16,
+          "url": "https://t.co/KwhX2A3qXE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072172200350658573",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 929
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071973208442687517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sss4ng: 샤넬이 https://t.co/KwhX2A3qXE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071973198065807360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEgpVbXsAAUorq.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071973198065807360"
+          ],
+          "media_source_tweet_id": [
+            "2071973208442687517"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2072172200350658573",
+        "created_at": "2026-07-01T04:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072172200350658573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983211936050491393",
+              "start": 3,
+              "username": "sss4ng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwhX2A3qXE",
+              "end": 39,
+              "expanded_url": "https://x.com/sss4ng/status/2071973208442687517/photo/1",
+              "media_key": "3_2071973198065807360",
+              "start": 16,
+              "url": "https://t.co/KwhX2A3qXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072172200350658573",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 929
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071973208442687517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sss4ng: 샤넬이 https://t.co/KwhX2A3qXE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071973198065807360"
+          ]
+        },
+        "author_id": "1983211936050491393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          }
+        ],
+        "conversation_id": "2071973208442687517",
+        "created_at": "2026-06-30T15:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071973208442687517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KwhX2A3qXE",
+              "end": 27,
+              "expanded_url": "https://x.com/sss4ng/status/2071973208442687517/photo/1",
+              "media_key": "3_2071973198065807360",
+              "start": 4,
+              "url": "https://t.co/KwhX2A3qXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071973208442687517",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 420,
+          "impression_count": 62618,
+          "like_count": 5216,
+          "quote_count": 31,
+          "reply_count": 2,
+          "retweet_count": 929
+        },
+        "reply_settings": "everyone",
+        "text": "샤넬이 https://t.co/KwhX2A3qXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n我是智障",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 254,
+          "like_count": 5230,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:39:18.000Z",
+        "description": "슬픈여자",
+        "id": "1983211936050491393",
+        "name": "개쌍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070390661501829120/WqCRw3Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 6,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "sss4ng",
+        "verified": false
+      }
+    ]
+  }
+}

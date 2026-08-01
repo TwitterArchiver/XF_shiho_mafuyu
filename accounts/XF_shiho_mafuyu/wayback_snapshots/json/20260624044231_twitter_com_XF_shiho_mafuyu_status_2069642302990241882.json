@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067933185330360320"
+      ],
+      "media_source_tweet_id": [
+        "2067933218146521579"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069642302990241882",
+    "created_at": "2026-06-24T04:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069642302990241882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sv9mStjGls",
+          "end": 23,
+          "expanded_url": "https://x.com/Jimoto_info/status/2067933218146521579/video/1",
+          "media_key": "13_2067933185330360320",
+          "start": 0,
+          "url": "https://t.co/Sv9mStjGls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069642302990241882",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Sv9mStjGls"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66069,
+        "height": 720,
+        "media_key": "13_2067933185330360320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067933185330360320/img/V_GS95Q-mk7-3NSs.jpg",
+        "public_metrics": {
+          "view_count": 3430365
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067933185330360320/vid/avc1/480x270/I0jtjPEPg6huNYyt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067933185330360320/vid/avc1/640x360/y78vQshY71QyXfEq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067933185330360320/vid/avc1/1280x720/X4JC5sT6so49bLJ8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067933185330360320/pl/OCq7vSIvJTi8rbsn.m3u8?tag=14&v=3ec"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067933185330360320"
+          ],
+          "media_source_tweet_id": [
+            "2067933218146521579"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069642302990241882",
+        "created_at": "2026-06-24T04:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069642302990241882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sv9mStjGls",
+              "end": 23,
+              "expanded_url": "https://x.com/Jimoto_info/status/2067933218146521579/video/1",
+              "media_key": "13_2067933185330360320",
+              "start": 0,
+              "url": "https://t.co/Sv9mStjGls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069642302990241882",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Sv9mStjGls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 244,
+          "like_count": 4418,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

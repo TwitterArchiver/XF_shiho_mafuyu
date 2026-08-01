@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067357289598812160"
+      ],
+      "media_source_tweet_id": [
+        "2067357296393605197"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2067634583202619469",
+    "created_at": "2026-06-18T15:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067634583202619469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1984220560596082688",
+          "start": 3,
+          "username": "unesyunazuna315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwWltkpuwQ",
+          "end": 53,
+          "expanded_url": "https://x.com/unesyunazuna315/status/2067357296393605197/photo/1",
+          "media_key": "3_2067357289598812160",
+          "start": 30,
+          "url": "https://t.co/qwWltkpuwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067634583202619469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067357296393605197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unesyunazuna315: 脳にエラー起きる https://t.co/qwWltkpuwQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2067357289598812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLC6gGZaAAAfxGD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067357289598812160"
+          ],
+          "media_source_tweet_id": [
+            "2067357296393605197"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2067634583202619469",
+        "created_at": "2026-06-18T15:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067634583202619469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1984220560596082688",
+              "start": 3,
+              "username": "unesyunazuna315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwWltkpuwQ",
+              "end": 53,
+              "expanded_url": "https://x.com/unesyunazuna315/status/2067357296393605197/photo/1",
+              "media_key": "3_2067357289598812160",
+              "start": 30,
+              "url": "https://t.co/qwWltkpuwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067634583202619469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067357296393605197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unesyunazuna315: 脳にエラー起きる https://t.co/qwWltkpuwQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067357289598812160"
+          ]
+        },
+        "author_id": "1984220560596082688",
+        "conversation_id": "2067357296393605197",
+        "created_at": "2026-06-17T21:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067357296393605197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwWltkpuwQ",
+              "end": 32,
+              "expanded_url": "https://x.com/unesyunazuna315/status/2067357296393605197/photo/1",
+              "media_key": "3_2067357289598812160",
+              "start": 9,
+              "url": "https://t.co/qwWltkpuwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067357296393605197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 987,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "脳にエラー起きる https://t.co/qwWltkpuwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 241,
+          "like_count": 4105,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1979
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T11:34:17.000Z",
+        "description": "最近やっと動き始めた！\nナズナちゃんが好きなツッコミ役の普通の人！\nよふかしのうたファンと交流もちてぇ\nインスタ→ https://t.co/70eEL80Ze1\nサブ→@SYUNZNZKI315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "SYUNZNZKI315"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/une.yohukashi?…",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/une.yohukashi?igsh=bWZ4bmE0M2lkODFr&utm_source=qr",
+                "start": 58,
+                "url": "https://t.co/70eEL80Ze1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/fps73rvgoq9i17…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/fps73rvgoq9i17z?t=hDKMkl&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/0lEqwnEVUh"
+              }
+            ]
+          }
+        },
+        "id": "1984220560596082688",
+        "name": "うねしゅ",
+        "pinned_tweet_id": "2057427321683136593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066906226840268800/iqnpw5wH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 729,
+          "like_count": 7981,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/0lEqwnEVUh",
+        "username": "unesyunazuna315",
+        "verified": false
+      }
+    ]
+  }
+}

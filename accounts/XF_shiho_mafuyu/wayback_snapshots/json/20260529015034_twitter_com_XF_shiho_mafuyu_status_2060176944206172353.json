@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060176944206172353",
+    "created_at": "2026-05-29T01:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060176944206172353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/makimatweets/s…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/makimatweets/status/2060005547244761397",
+          "start": 49,
+          "url": "https://t.co/Z7MVekbGEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060176944206172353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060005547244761397",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎哟我可喜欢这个眼镜妹了但是我没看过这个番我要补番然后嫁给这个眼镜妹我已爱上但是你怎么被暴打了。 https://t.co/Z7MVekbGEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76992,
+        "height": 720,
+        "media_key": "13_2060005435135115264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060005435135115264/img/I5kv23jtNM3GpqWh.jpg",
+        "public_metrics": {
+          "view_count": 588707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060005435135115264/vid/avc1/480x270/JBlWqEse5uCmgrqk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060005435135115264/vid/avc1/640x360/JarmSeRmY8mX_eX_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060005435135115264/vid/avc1/1280x720/BlSwIpg_hbMOXgrF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060005435135115264/pl/4MGKCRhSssA5jStS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060176944206172353",
+        "created_at": "2026-05-29T01:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060176944206172353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/makimatweets/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/makimatweets/status/2060005547244761397",
+              "start": 49,
+              "url": "https://t.co/Z7MVekbGEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060176944206172353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060005547244761397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎哟我可喜欢这个眼镜妹了但是我没看过这个番我要补番然后嫁给这个眼镜妹我已爱上但是你怎么被暴打了。 https://t.co/Z7MVekbGEt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060005435135115264"
+          ]
+        },
+        "author_id": "1968181299002146816",
+        "conversation_id": "2060005547244761397",
+        "created_at": "2026-05-28T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060005547244761397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4fh9U5qG0",
+              "end": 43,
+              "expanded_url": "https://x.com/Makimatweets/status/2060005547244761397/video/1",
+              "media_key": "13_2060005435135115264",
+              "start": 20,
+              "url": "https://t.co/X4fh9U5qG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060005547244761397",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2108,
+          "impression_count": 1074555,
+          "like_count": 5482,
+          "quote_count": 14,
+          "reply_count": 16,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "This scene is crazy https://t.co/X4fh9U5qG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 216,
+          "like_count": 3642,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:14:52.000Z",
+        "description": "Daily anime tweets",
+        "id": "1968181299002146816",
+        "name": "Makima",
+        "pinned_tweet_id": "2036304500089110801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015721107677171712/IIEZYV5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16008,
+          "following_count": 192,
+          "like_count": 15977,
+          "listed_count": 35,
+          "media_count": 705,
+          "tweet_count": 6213
+        },
+        "username": "Makimatweets",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2074423012632445232",
+    "created_at": "2026-07-09T00:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075016874157592620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1991826425155059712",
+          "start": 0,
+          "username": "Duovo027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075016874157592620",
+    "in_reply_to_user_id": "1991826425155059712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074918092258545832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Duovo027 看哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2074423012632445232",
+        "created_at": "2026-07-09T00:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075016874157592620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991826425155059712",
+              "start": 0,
+              "username": "Duovo027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075016874157592620",
+        "in_reply_to_user_id": "1991826425155059712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074918092258545832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Duovo027 看哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991826425155059712",
+        "conversation_id": "2074423012632445232",
+        "created_at": "2026-07-08T18:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074918092258545832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074918092258545832",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074423012632445232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XF_shiho_mafuyu 9999999😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 234,
+          "like_count": 5953,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T11:10:12.000Z",
+        "description": "☆₊⁺歡迎進入「序眠」的世界₊⁺★\n-碎碎念",
+        "id": "1991826425155059712",
+        "location": "梦乡",
+        "name": "沒有哭",
+        "pinned_tweet_id": "2074161990143197308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038707370239631360/n5px3DYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 43,
+          "like_count": 3362,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Duovo027",
+        "verified": false
+      }
+    ]
+  }
+}

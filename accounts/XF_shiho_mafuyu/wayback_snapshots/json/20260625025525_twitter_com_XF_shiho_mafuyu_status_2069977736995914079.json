@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2069730125542039887",
+    "created_at": "2026-06-25T02:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T03:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069977736995914079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1749749065783640064",
+          "start": 0,
+          "username": "AnzeWare"
+        },
+        {
+          "end": 26,
+          "id": "1709271772707909632",
+          "start": 10,
+          "username": "ciRUYALSNO16671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069977736995914079",
+    "in_reply_to_user_id": "1749749065783640064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069915668611506261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnzeWare @ciRUYALSNO16671 你是对面小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2069730125542039887",
+        "created_at": "2026-06-25T02:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069977736995914079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1749749065783640064",
+              "start": 0,
+              "username": "AnzeWare"
+            },
+            {
+              "end": 26,
+              "id": "1709271772707909632",
+              "start": 10,
+              "username": "ciRUYALSNO16671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069977736995914079",
+        "in_reply_to_user_id": "1749749065783640064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069915668611506261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnzeWare @ciRUYALSNO16671 你是对面小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749749065783640064",
+        "conversation_id": "2069730125542039887",
+        "created_at": "2026-06-24T22:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069915668611506261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709271772707909632",
+              "start": 0,
+              "username": "ciRUYALSNO16671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069915668611506261",
+        "in_reply_to_user_id": "1709271772707909632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2096,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069730125542039887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciRUYALSNO16671 女生一般打出哈哈哈就是急了其实 因为没有针锋相对的实力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 261,
+          "like_count": 4599,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2136
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T11:01:42.000Z",
+        "description": "05 电气本科 国内某新能源龙头中高层任职  最大爱好是辱骂弱智",
+        "id": "1749749065783640064",
+        "name": "Lenno Raitz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048023327600689154/a1l-AuG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "AnzeWare",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T18:19:00.000Z",
+        "description": "",
+        "id": "1709271772707909632",
+        "location": "我已经扭曲了。 有🚪",
+        "name": "不要再痛",
+        "pinned_tweet_id": "2059104119596736853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060738038612017152/p5fogg8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6118,
+          "following_count": 211,
+          "like_count": 82,
+          "listed_count": 11,
+          "media_count": 279,
+          "tweet_count": 898
+        },
+        "url": "",
+        "username": "ciRUYALSNO16671",
+        "verified": false
+      }
+    ]
+  }
+}

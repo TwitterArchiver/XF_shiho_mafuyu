@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2069618328914772055",
+    "created_at": "2026-06-24T03:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069629455245705650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069629455245705650",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069618328914772055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069618320459157504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjC5aub0AAK1iI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2069618328914772055",
+        "created_at": "2026-06-24T03:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069629455245705650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069629455245705650",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069618328914772055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069618320459157504"
+          ]
+        },
+        "author_id": "1929070811241132032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069618328914772055",
+        "created_at": "2026-06-24T03:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069618328914772055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxEiSDzD7D",
+              "end": 68,
+              "expanded_url": "https://x.com/GGGisena/status/2069618328914772055/photo/1",
+              "media_key": "3_2069618320459157504",
+              "start": 45,
+              "url": "https://t.co/YxEiSDzD7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069618328914772055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是爸爸知道我现在生活成这样，把自己的人生弄成这样，爸爸也会对我说这样的话吗，会心疼我吗 https://t.co/YxEiSDzD7D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 246,
+          "like_count": 4421,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2076
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleNg｜11年｜东莞/中山/珠三角｜同类直fo｜餐卷猫抓｜o割🚬｜私信除门不回｜我宝贝@ekj5615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "ekj5615"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "my home",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2062946570027536455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068023700218359808/8hKMQX9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 210,
+          "like_count": 629,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

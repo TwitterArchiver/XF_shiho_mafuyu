@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2070837968483602507",
+    "created_at": "2026-06-28T10:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071173116097699967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540268150406537216",
+          "start": 0,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071173116097699967",
+    "in_reply_to_user_id": "1540268150406537216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070837968483602507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabanypp 故人之姿。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_2070837962158620673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0YJ6HbwAEoE1P.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2070837968483602507",
+        "created_at": "2026-06-28T10:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071173116097699967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071173116097699967",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070837968483602507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 故人之姿。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070837962158620673"
+          ]
+        },
+        "author_id": "1540268150406537216",
+        "conversation_id": "2070837968483602507",
+        "created_at": "2026-06-27T11:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070837968483602507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JtcWgB89K",
+              "end": 29,
+              "expanded_url": "https://x.com/aabanypp/status/2070837968483602507/photo/1",
+              "media_key": "3_2070837962158620673",
+              "start": 6,
+              "url": "https://t.co/8JtcWgB89K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070837968483602507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还以为。 https://t.co/8JtcWgB89K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n我是智障",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 253,
+          "like_count": 5159,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "pinned_tweet_id": "2065487571975856286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069053261726826496/ZLu96B-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 128,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

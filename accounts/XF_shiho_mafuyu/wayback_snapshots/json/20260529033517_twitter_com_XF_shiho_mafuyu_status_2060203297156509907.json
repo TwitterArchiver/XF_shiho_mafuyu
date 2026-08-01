@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060203297156509907",
+    "created_at": "2026-05-29T03:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060203297156509907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nananana_os/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/nananana_os/status/2059923414442442860",
+          "start": 10,
+          "url": "https://t.co/WYa0HvO5wq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060203297156509907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059923414442442860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草草草草草笑死我了 https://t.co/WYa0HvO5wq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060203297156509907",
+        "created_at": "2026-05-29T03:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060203297156509907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nananana_os/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/nananana_os/status/2059923414442442860",
+              "start": 10,
+              "url": "https://t.co/WYa0HvO5wq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060203297156509907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059923414442442860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草草草草草笑死我了 https://t.co/WYa0HvO5wq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2059923414442442860",
+        "created_at": "2026-05-28T09:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059923414442442860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059923414442442860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：医生您在医院工作这么久一定很会超说明书治疗和联用不良反应以及药代动力吧\n医生：其实一般医生更会的是如何把躁狂的骗进小屋子用拘束带捆起来 你说的那个是药学和主任才擅长的\n我：😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 216,
+          "like_count": 3646,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1814
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "深陷三角恋二周年版｜enby｜💝@_sharkee1024｜🎐@yuwilmeaning",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "_sharkee1024"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "yuwilmeaning"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "location": "Nowhere",
+        "name": "7Na7Na",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 681,
+          "like_count": 28629,
+          "listed_count": 2,
+          "media_count": 443,
+          "tweet_count": 3550
+        },
+        "username": "NanaNana_os",
+        "verified": false
+      }
+    ]
+  }
+}

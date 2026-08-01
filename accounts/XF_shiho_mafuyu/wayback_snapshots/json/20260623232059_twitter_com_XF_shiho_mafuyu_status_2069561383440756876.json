@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069431267997929472"
+      ],
+      "media_source_tweet_id": [
+        "2069431275375710458"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2069561383440756876",
+    "created_at": "2026-06-23T23:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T00:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069561383440756876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565998091517698048",
+          "start": 3,
+          "username": "wlyuzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPgWu0q4tr",
+          "end": 39,
+          "expanded_url": "https://x.com/wlyuzu/status/2069431275375710458/photo/1",
+          "media_key": "3_2069431267997929472",
+          "start": 16,
+          "url": "https://t.co/iPgWu0q4tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069561383440756876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1460
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069431275375710458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wlyuzu: ほむら https://t.co/iPgWu0q4tr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2069431267997929472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgYxiAaUAAQUu-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069431267997929472"
+          ],
+          "media_source_tweet_id": [
+            "2069431275375710458"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2069561383440756876",
+        "created_at": "2026-06-23T23:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069561383440756876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565998091517698048",
+              "start": 3,
+              "username": "wlyuzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPgWu0q4tr",
+              "end": 39,
+              "expanded_url": "https://x.com/wlyuzu/status/2069431275375710458/photo/1",
+              "media_key": "3_2069431267997929472",
+              "start": 16,
+              "url": "https://t.co/iPgWu0q4tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069561383440756876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1460
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069431275375710458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wlyuzu: ほむら https://t.co/iPgWu0q4tr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069431267997929472"
+          ]
+        },
+        "author_id": "1565998091517698048",
+        "conversation_id": "2069431275375710458",
+        "created_at": "2026-06-23T14:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069431275375710458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPgWu0q4tr",
+              "end": 27,
+              "expanded_url": "https://x.com/wlyuzu/status/2069431275375710458/photo/1",
+              "media_key": "3_2069431267997929472",
+              "start": 4,
+              "url": "https://t.co/iPgWu0q4tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069431275375710458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 882,
+          "impression_count": 67638,
+          "like_count": 8498,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 1460
+        },
+        "reply_settings": "everyone",
+        "text": "ほむら https://t.co/iPgWu0q4tr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 246,
+          "like_count": 4383,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T09:40:34.000Z",
+        "description": "看一套愛一套 雜食 絵が好き🪽🚫ai🚫unauthorised reposting🚫commercial use",
+        "id": "1565998091517698048",
+        "name": "W.E.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965331230091780096/E0jvrGLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6594,
+          "following_count": 418,
+          "like_count": 12035,
+          "listed_count": 27,
+          "media_count": 338,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "wlyuzu",
+        "verified": false
+      }
+    ]
+  }
+}

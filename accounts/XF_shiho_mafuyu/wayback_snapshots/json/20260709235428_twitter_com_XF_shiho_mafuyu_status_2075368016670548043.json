@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075234550548992000"
+      ],
+      "media_source_tweet_id": [
+        "2075234625786421431"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2075368016670548043",
+    "created_at": "2026-07-09T23:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T00:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075368016670548043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1441395793819148305",
+          "start": 3,
+          "username": "majun_kenny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKD4tpAHx5",
+          "end": 78,
+          "expanded_url": "https://x.com/majun_kenny/status/2075234625786421431/video/1",
+          "media_key": "13_2075234550548992000",
+          "start": 55,
+          "url": "https://t.co/HKD4tpAHx5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075368016670548043",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075234625786421431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majun_kenny: You will never seen this 👇 ooh my God https://t.co/HKD4tpAHx5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13606,
+        "height": 1280,
+        "media_key": "13_2075234550548992000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075234550548992000/img/rTlnvu6nVcG6CAYR.jpg",
+        "public_metrics": {
+          "view_count": 3190913
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075234550548992000/vid/avc1/320x568/aTpbcRWQb99d8U76.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075234550548992000/vid/avc1/480x852/wlPaL6_iyQrt8eua.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075234550548992000/vid/avc1/720x1280/d4o4E5lzlSw9oKFV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075234550548992000/pl/mtX2qMHKK1kDWOxd.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075234550548992000"
+          ],
+          "media_source_tweet_id": [
+            "2075234625786421431"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2075368016670548043",
+        "created_at": "2026-07-09T23:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075368016670548043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1441395793819148305",
+              "start": 3,
+              "username": "majun_kenny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKD4tpAHx5",
+              "end": 78,
+              "expanded_url": "https://x.com/majun_kenny/status/2075234625786421431/video/1",
+              "media_key": "13_2075234550548992000",
+              "start": 55,
+              "url": "https://t.co/HKD4tpAHx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075368016670548043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075234625786421431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majun_kenny: You will never seen this 👇 ooh my God https://t.co/HKD4tpAHx5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075234550548992000"
+          ]
+        },
+        "author_id": "1441395793819148305",
+        "conversation_id": "2075234625786421431",
+        "created_at": "2026-07-09T15:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075234625786421431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKD4tpAHx5",
+              "end": 61,
+              "expanded_url": "https://x.com/majun_kenny/status/2075234625786421431/video/1",
+              "media_key": "13_2075234550548992000",
+              "start": 38,
+              "url": "https://t.co/HKD4tpAHx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075234625786421431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1055,
+          "impression_count": 6941469,
+          "like_count": 1774,
+          "quote_count": 100,
+          "reply_count": 436,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "You will never seen this 👇 ooh my God https://t.co/HKD4tpAHx5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 236,
+          "like_count": 6183,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2475
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-24T13:35:40.000Z",
+        "description": "🎥 Digital Creator | Daily Visual Insights\n💡 Sharing the tech & life hacks you won't find anywhere else.\n🚀 New videos posted daily.\n🔔 Hit the bell for your",
+        "id": "1441395793819148305",
+        "location": "Rwanda",
+        "name": "kennyzo🇷🇼",
+        "pinned_tweet_id": "2075234625786421431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000864146594705409/UDJTcOti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7657,
+          "following_count": 2111,
+          "like_count": 65130,
+          "listed_count": 5,
+          "media_count": 813,
+          "tweet_count": 99049
+        },
+        "url": "",
+        "username": "majun_kenny",
+        "verified": true
+      }
+    ]
+  }
+}

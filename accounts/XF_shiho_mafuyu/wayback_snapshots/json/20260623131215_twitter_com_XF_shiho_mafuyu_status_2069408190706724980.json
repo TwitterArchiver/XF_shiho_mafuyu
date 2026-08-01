@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2069408190706724980",
+    "created_at": "2026-06-23T13:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069408190706724980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/17nuun/status/2068863789693542702",
+          "start": 89,
+          "url": "https://t.co/oOBAdMfz19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069408190706724980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068863789693542702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草啊但是也太绝望了因为高中一开始军训就请假了没交到朋友唉其实我有点后悔  抛开感受我还是挺想上学的，，😭有朋友的话，住宿也有一点点好玩 大家可以在一起 虽然我这么说听起来像疯了 https://t.co/oOBAdMfz19"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2069408190706724980",
+        "created_at": "2026-06-23T13:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069408190706724980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/17nuun/status/2068863789693542702",
+              "start": 89,
+              "url": "https://t.co/oOBAdMfz19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069408190706724980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068863789693542702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草啊但是也太绝望了因为高中一开始军训就请假了没交到朋友唉其实我有点后悔  抛开感受我还是挺想上学的，，😭有朋友的话，住宿也有一点点好玩 大家可以在一起 虽然我这么说听起来像疯了 https://t.co/oOBAdMfz19"
+      },
+      {
+        "article": {
+          "title": "因抑郁症而休学、辍学"
+        },
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068863789693542702",
+        "created_at": "2026-06-22T01:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068863789693542702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2068…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2068863416803139584",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2068863416803139584",
+              "url": "https://t.co/9TVNpmcZMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068863789693542702",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13825,
+          "like_count": 99,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9TVNpmcZMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 243,
+          "like_count": 4331,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2038
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 930,
+          "like_count": 412,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

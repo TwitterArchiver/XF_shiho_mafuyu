@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1808681877881999360"
+      ],
+      "media_source_tweet_id": [
+        "1808681903467245641"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2073703707871723884",
+    "created_at": "2026-07-05T09:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T10:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073703707871723884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652852984009613317",
+          "start": 3,
+          "username": "droggarme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5z23piNkXr",
+          "end": 44,
+          "expanded_url": "https://x.com/lobitoluchon/status/1808681903467245641/video/1",
+          "media_key": "7_1808681877881999360",
+          "start": 21,
+          "url": "https://t.co/5z23piNkXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073703707871723884",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808681903467245641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @droggarme: false https://t.co/5z23piNkXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15580,
+        "height": 720,
+        "media_key": "7_1808681877881999360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1808681877881999360/pu/img/mX1ypr9-R7U0gPM7.jpg",
+        "public_metrics": {
+          "view_count": 4798
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808681877881999360/pu/vid/avc1/334x270/FSwPuOD3ZgQbu1_d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808681877881999360/pu/vid/avc1/446x360/E7vCkrcppIpwOuvJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1808681877881999360/pu/vid/avc1/892x720/r02djXBiwiXLZmKq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1808681877881999360/pu/pl/4Yrw5mxWxmAnCFp6.m3u8?tag=12"
+          }
+        ],
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1808681877881999360"
+          ],
+          "media_source_tweet_id": [
+            "1808681903467245641"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2073703707871723884",
+        "created_at": "2026-07-05T09:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073703707871723884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652852984009613317",
+              "start": 3,
+              "username": "droggarme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5z23piNkXr",
+              "end": 44,
+              "expanded_url": "https://x.com/lobitoluchon/status/1808681903467245641/video/1",
+              "media_key": "7_1808681877881999360",
+              "start": 21,
+              "url": "https://t.co/5z23piNkXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073703707871723884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808681903467245641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @droggarme: false https://t.co/5z23piNkXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1808681877881999360"
+          ]
+        },
+        "author_id": "1652852984009613317",
+        "conversation_id": "1808681608825680278",
+        "created_at": "2024-07-04T01:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T02:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808681903467245641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5z23piNkXr",
+              "end": 29,
+              "expanded_url": "https://x.com/lobitoluchon/status/1808681903467245641/video/1",
+              "media_key": "7_1808681877881999360",
+              "start": 6,
+              "url": "https://t.co/5z23piNkXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808681903467245641",
+        "in_reply_to_user_id": "1652852984009613317",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 10090,
+          "like_count": 796,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808681728376017250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "false https://t.co/5z23piNkXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 239,
+          "like_count": 5653,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T01:51:15.000Z",
+        "description": "haciéndome un sake por la pena",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "subtwt.com",
+                "end": 23,
+                "expanded_url": "http://subtwt.com",
+                "start": 0,
+                "url": "https://t.co/3HVIoEgiDb"
+              }
+            ]
+          }
+        },
+        "id": "1652852984009613317",
+        "location": "🇨🇱",
+        "name": "Jayden",
+        "pinned_tweet_id": "2064835293690089750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069275457644621824/boyt0ObQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2987,
+          "following_count": 240,
+          "like_count": 9505,
+          "listed_count": 2,
+          "media_count": 1931,
+          "tweet_count": 21510
+        },
+        "url": "https://t.co/3HVIoEgiDb",
+        "username": "droggarme",
+        "verified": false
+      }
+    ]
+  }
+}

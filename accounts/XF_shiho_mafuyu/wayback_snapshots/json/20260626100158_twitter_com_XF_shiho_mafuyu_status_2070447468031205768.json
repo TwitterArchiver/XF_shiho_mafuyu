@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2070447468031205768",
+    "created_at": "2026-06-26T10:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070447468031205768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1959612194238398464",
+          "start": 3,
+          "username": "randiesbyslit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070447468031205768",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 379
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070136947322798142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @randiesbyslit: Twitter is like a really big mental hospital without any restrictions"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2070447468031205768",
+        "created_at": "2026-06-26T10:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070447468031205768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1959612194238398464",
+              "start": 3,
+              "username": "randiesbyslit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070447468031205768",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 379
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070136947322798142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @randiesbyslit: Twitter is like a really big mental hospital without any restrictions"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959612194238398464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2070136947322798142",
+        "created_at": "2026-06-25T13:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070136947322798142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070136947322798142",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 7756,
+          "like_count": 1532,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 379
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter is like a really big mental hospital without any restrictions"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 254,
+          "like_count": 4889,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2200
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T13:42:22.000Z",
+        "description": "shedtwt, yumeshipper + profic (the big 3) | minor(15) + ndni\n𝄞\nbmi: 18.9  |  priv: @slitdiesbyran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "slitdiesbyran"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/GVmPMnSuct3fqn…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/GVmPMnSuct3fqnJ86",
+                "start": 0,
+                "url": "https://t.co/0ySWpDUZsE"
+              }
+            ]
+          }
+        },
+        "id": "1959612194238398464",
+        "location": "cw/gw-48.9kg/42kg",
+        "name": "ran - shedtwt",
+        "pinned_tweet_id": "2068428896538681813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068418828653019136/QDHluQCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 329,
+          "like_count": 4811,
+          "listed_count": 7,
+          "media_count": 225,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/0ySWpDUZsE",
+        "username": "randiesbyslit",
+        "verified": false
+      }
+    ]
+  }
+}

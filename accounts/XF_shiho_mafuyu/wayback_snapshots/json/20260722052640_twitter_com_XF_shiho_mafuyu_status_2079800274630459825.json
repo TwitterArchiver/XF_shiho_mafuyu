@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2079581780567601237",
+    "created_at": "2026-07-22T05:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079800274630459825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264026053137313792",
+          "start": 0,
+          "username": "B1312842909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079800274630459825",
+    "in_reply_to_user_id": "1264026053137313792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079581780567601237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B1312842909 好甜🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2079581780567601237",
+        "created_at": "2026-07-22T05:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079800274630459825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264026053137313792",
+              "start": 0,
+              "username": "B1312842909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079800274630459825",
+        "in_reply_to_user_id": "1264026053137313792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079581780567601237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B1312842909 好甜🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264026053137313792",
+        "conversation_id": "2079581780567601237",
+        "created_at": "2026-07-21T14:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079581780567601237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079581780567601237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 759,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我告诉你们哦 死目莉其实是一个小笨蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 240,
+          "like_count": 6472,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T02:51:23.000Z",
+        "description": "💊",
+        "id": "1264026053137313792",
+        "name": "sunk",
+        "pinned_tweet_id": "2079162692603183305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079395747674632192/z7YH7bQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 50,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "B1312842909",
+        "verified": false
+      }
+    ]
+  }
+}

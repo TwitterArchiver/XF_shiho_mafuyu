@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060362719438790909",
+    "created_at": "2026-05-30T01:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T02:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060529285799239965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1493493240401567744",
+          "start": 0,
+          "username": "asmmync"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060529285799239965",
+    "in_reply_to_user_id": "1493493240401567744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060427380871819301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asmmync 你是好人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060362719438790909",
+        "created_at": "2026-05-30T01:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T02:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060529285799239965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1493493240401567744",
+              "start": 0,
+              "username": "asmmync"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060529285799239965",
+        "in_reply_to_user_id": "1493493240401567744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060427380871819301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asmmync 你是好人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493493240401567744",
+        "conversation_id": "2060362719438790909",
+        "created_at": "2026-05-29T18:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060427380871819301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "XF_shiho_mafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060427380871819301",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060362719438790909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XF_shiho_mafuyu 永远不建议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 224,
+          "like_count": 3717,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1845
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T07:52:00.000Z",
+        "description": "永远怀念",
+        "id": "1493493240401567744",
+        "location": "阴间",
+        "name": "房屋中介",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769244099616665600/QeBkyX83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 50,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 2602
+        },
+        "username": "asmmync",
+        "verified": false
+      }
+    ]
+  }
+}

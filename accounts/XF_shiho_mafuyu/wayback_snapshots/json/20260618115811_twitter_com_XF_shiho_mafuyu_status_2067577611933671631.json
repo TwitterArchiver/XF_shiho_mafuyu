@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067178494896001024"
+      ],
+      "media_source_tweet_id": [
+        "2067178509546774821"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "conversation_id": "2067577611933671631",
+    "created_at": "2026-06-18T11:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067577611933671631"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 36,
+          "tag": "NewPSG"
+        },
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "Newパンスト"
+        },
+        {
+          "end": 71,
+          "start": 54,
+          "tag": "PantyandStocking"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892437801322631168",
+          "start": 3,
+          "username": "Namekata_rei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zo4ZDHeHTg",
+          "end": 95,
+          "expanded_url": "https://x.com/Namekata_rei/status/2067178509546774821/photo/1",
+          "media_key": "3_2067178494896001024",
+          "start": 72,
+          "url": "https://t.co/Zo4ZDHeHTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067577611933671631",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067178509546774821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @Namekata_rei: Panty supremacy 💋\n#NewPSG\n #Newパンスト\n#PantyandStocking https://t.co/Zo4ZDHeHTg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067178494896001024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAX44OaUAAL4zX.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067178494896001024"
+          ],
+          "media_source_tweet_id": [
+            "2067178509546774821"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "conversation_id": "2067577611933671631",
+        "created_at": "2026-06-18T11:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067577611933671631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 71,
+              "start": 54,
+              "tag": "PantyandStocking"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892437801322631168",
+              "start": 3,
+              "username": "Namekata_rei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zo4ZDHeHTg",
+              "end": 95,
+              "expanded_url": "https://x.com/Namekata_rei/status/2067178509546774821/photo/1",
+              "media_key": "3_2067178494896001024",
+              "start": 72,
+              "url": "https://t.co/Zo4ZDHeHTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067577611933671631",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067178509546774821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @Namekata_rei: Panty supremacy 💋\n#NewPSG\n #Newパンスト\n#PantyandStocking https://t.co/Zo4ZDHeHTg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067178494896001024"
+          ]
+        },
+        "author_id": "1892437801322631168",
+        "conversation_id": "2067178509546774821",
+        "created_at": "2026-06-17T09:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067178509546774821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 53,
+              "start": 36,
+              "tag": "PantyandStocking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zo4ZDHeHTg",
+              "end": 77,
+              "expanded_url": "https://x.com/Namekata_rei/status/2067178509546774821/photo/1",
+              "media_key": "3_2067178494896001024",
+              "start": 54,
+              "url": "https://t.co/Zo4ZDHeHTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067178509546774821",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 970,
+          "impression_count": 76782,
+          "like_count": 9696,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 617
+        },
+        "reply_settings": "verified",
+        "text": "Panty supremacy 💋\n#NewPSG\n #Newパンスト\n#PantyandStocking https://t.co/Zo4ZDHeHTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 239,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1975
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T04:55:45.000Z",
+        "description": "🟰文学/なめかたれい\nイラスト / Illustration\n主オリジナル・旧作アニメ\n✉️ kaukrtya0915@gmail.com",
+        "id": "1892437801322631168",
+        "name": "行方礼",
+        "pinned_tweet_id": "1929827594670952556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050384773940727808/ENixHTSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 226,
+          "like_count": 1325,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 259
+        },
+        "username": "Namekata_rei",
+        "verified": false
+      }
+    ]
+  }
+}

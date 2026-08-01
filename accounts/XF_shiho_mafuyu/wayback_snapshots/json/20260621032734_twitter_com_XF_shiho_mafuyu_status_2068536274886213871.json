@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2068536274886213871",
+    "created_at": "2026-06-21T03:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T04:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068536274886213871"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068536274886213871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "混圈妹拉我搞那个扩列车我很不安。我上次搞这个在几年前了都忘了。好恐怖啊讨厌混圈就是因为这个 一模一样的说话方式 发营业一股子刻薄感。另外我之前混圈有人把我当惹急其实我只是一个糊逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2068536274886213871",
+        "created_at": "2026-06-21T03:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068536274886213871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068536274886213871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "混圈妹拉我搞那个扩列车我很不安。我上次搞这个在几年前了都忘了。好恐怖啊讨厌混圈就是因为这个 一模一样的说话方式 发营业一股子刻薄感。另外我之前混圈有人把我当惹急其实我只是一个糊逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 245,
+          "like_count": 4172,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1995
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

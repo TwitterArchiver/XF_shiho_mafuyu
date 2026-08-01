@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2060242098549641584",
+    "created_at": "2026-05-29T06:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060242098549641584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kadokawasneake…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kadokawasneaker/status/2059922812123697238",
+          "start": 3,
+          "url": "https://t.co/YwuSW68zWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060242098549641584",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059922812123697238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😍。 https://t.co/YwuSW68zWu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3287,
+        "media_key": "3_2059922800610295808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZQ34sawAA-S8C.jpg",
+        "width": 2378
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2060242098549641584",
+        "created_at": "2026-05-29T06:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060242098549641584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kadokawasneake…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kadokawasneaker/status/2059922812123697238",
+              "start": 3,
+              "url": "https://t.co/YwuSW68zWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060242098549641584",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059922812123697238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😍。 https://t.co/YwuSW68zWu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059922800610295808"
+          ]
+        },
+        "author_id": "149103254",
+        "conversation_id": "2059922812123697238",
+        "created_at": "2026-05-28T09:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059922812123697238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "嫌い同士"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5LcAhGPyp",
+              "end": 65,
+              "expanded_url": "https://x.com/kadokawasneaker/status/2059922812123697238/photo/1",
+              "media_key": "3_2059922800610295808",
+              "start": 42,
+              "url": "https://t.co/u5LcAhGPyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059922812123697238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1717,
+          "impression_count": 175552,
+          "like_count": 9333,
+          "quote_count": 23,
+          "reply_count": 10,
+          "retweet_count": 605
+        },
+        "reply_settings": "everyone",
+        "text": "「昨日は何もなかったことにしましょう」\n「そうですね。お互いのために」\n#嫌い同士 https://t.co/u5LcAhGPyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 219,
+          "like_count": 3670,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-28T12:27:11.000Z",
+        "description": "角川スニーカー文庫編集部の公式アカウントです。 新刊情報を中心にニュースをお届け！ ★LINE@はじめました《毎月の人気作品壁紙など、ここだけのスペシャルコンテンツを配信中!!》https://t.co/Rpd03zkYdB…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/%40kxm1",
+                "end": 112,
+                "expanded_url": "http://line.me/R/ti/p/%40kxm1",
+                "start": 89,
+                "url": "https://t.co/Rpd03zkYdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneakerbunko.jp",
+                "end": 23,
+                "expanded_url": "https://sneakerbunko.jp/",
+                "start": 0,
+                "url": "https://t.co/zoaDCSG9BC"
+              }
+            ]
+          }
+        },
+        "id": "149103254",
+        "location": "ザ・スニーカーＷＥＢ",
+        "name": "スニーカー文庫＠毎月1日発売!!",
+        "pinned_tweet_id": "2060195034704830623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622827882803494912/6JN_Qu0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164274,
+          "following_count": 2301,
+          "like_count": 9319,
+          "listed_count": 1553,
+          "media_count": 13952,
+          "tweet_count": 40876
+        },
+        "url": "https://t.co/zoaDCSG9BC",
+        "username": "kadokawasneaker",
+        "verified": true
+      }
+    ]
+  }
+}

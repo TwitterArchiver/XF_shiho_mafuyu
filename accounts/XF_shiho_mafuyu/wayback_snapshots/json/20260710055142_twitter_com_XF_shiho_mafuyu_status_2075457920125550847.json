@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075131710896025600"
+      ],
+      "media_source_tweet_id": [
+        "2075131716839330180"
+      ]
+    },
+    "author_id": "2021200224388341760",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075457920125550847",
+    "created_at": "2026-07-10T05:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075457920125550847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891796819824476164",
+          "start": 3,
+          "username": "h6668h_2025"
+        },
+        {
+          "end": 66,
+          "id": "2001675650994999296",
+          "start": 50,
+          "username": "Pluralitysubsys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qzw248Xl6M",
+          "end": 104,
+          "expanded_url": "https://x.com/h6668h_2025/status/2075131716839330180/photo/1",
+          "media_key": "3_2075131710896025600",
+          "start": 81,
+          "url": "https://t.co/qzw248Xl6M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075457920125550847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075131716839330180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h6668h_2025: 这个人不单止卖高价药，还要恶意举报曝光他的人，害我主号被封12小时@Pluralitysubsys。恶人先告状🖕🏻，求大家转发 https://t.co/qzw248Xl6M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075131710896025600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxZS-obMAAy_rm.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075131710896025600"
+          ],
+          "media_source_tweet_id": [
+            "2075131716839330180"
+          ]
+        },
+        "author_id": "2021200224388341760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075457920125550847",
+        "created_at": "2026-07-10T05:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075457920125550847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891796819824476164",
+              "start": 3,
+              "username": "h6668h_2025"
+            },
+            {
+              "end": 66,
+              "id": "2001675650994999296",
+              "start": 50,
+              "username": "Pluralitysubsys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzw248Xl6M",
+              "end": 104,
+              "expanded_url": "https://x.com/h6668h_2025/status/2075131716839330180/photo/1",
+              "media_key": "3_2075131710896025600",
+              "start": 81,
+              "url": "https://t.co/qzw248Xl6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075457920125550847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075131716839330180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h6668h_2025: 这个人不单止卖高价药，还要恶意举报曝光他的人，害我主号被封12小时@Pluralitysubsys。恶人先告状🖕🏻，求大家转发 https://t.co/qzw248Xl6M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075131710896025600"
+          ]
+        },
+        "author_id": "1891796819824476164",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075131716839330180",
+        "created_at": "2026-07-09T08:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075131716839330180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2001675650994999296",
+              "start": 33,
+              "username": "Pluralitysubsys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qzw248Xl6M",
+              "end": 87,
+              "expanded_url": "https://x.com/h6668h_2025/status/2075131716839330180/photo/1",
+              "media_key": "3_2075131710896025600",
+              "start": 64,
+              "url": "https://t.co/qzw248Xl6M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075131716839330180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个人不单止卖高价药，还要恶意举报曝光他的人，害我主号被封12小时@Pluralitysubsys。恶人先告状🖕🏻，求大家转发 https://t.co/qzw248Xl6M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 238,
+          "like_count": 6198,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T10:28:29.000Z",
+        "description": "香港保安局禁毒处根本不会药理学🤣\n@Pluralitysubsys",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "Pluralitysubsys"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/AsWsEbHFAf"
+              }
+            ]
+          }
+        },
+        "id": "1891796819824476164",
+        "location": "香港金钟金钟道66号政府合署低座顶层",
+        "name": "香港禁毒117局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063108626890539008/jlmjKOVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/AsWsEbHFAf",
+        "username": "h6668h_2025",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2074450342092443992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 137,
+          "like_count": 1977,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 3265
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

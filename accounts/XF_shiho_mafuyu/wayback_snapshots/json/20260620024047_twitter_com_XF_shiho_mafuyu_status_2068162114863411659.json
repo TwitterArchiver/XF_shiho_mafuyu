@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2067941748853416371",
+    "created_at": "2026-06-20T02:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T03:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068162114863411659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068162114863411659",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067941748853416371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 女神😍😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067941742377361408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLODuqa4AABY88.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067941742377304064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLODuqaAAAM4T1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2067941742385762304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLODusbEAA8xmj.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2067941742369013760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLODuobgAAEZ-l.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2067941748853416371",
+        "created_at": "2026-06-20T02:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068162114863411659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068162114863411659",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067941748853416371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 女神😍😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067941742377361408",
+            "3_2067941742377304064",
+            "3_2067941742385762304",
+            "3_2067941742369013760"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067941748853416371",
+        "created_at": "2026-06-19T12:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067941748853416371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OT4kaPIqDC",
+              "end": 64,
+              "expanded_url": "https://x.com/yuganbb823/status/2067941748853416371/photo/1",
+              "media_key": "3_2067941742377361408",
+              "start": 41,
+              "url": "https://t.co/OT4kaPIqDC"
+            },
+            {
+              "display_url": "pic.x.com/OT4kaPIqDC",
+              "end": 64,
+              "expanded_url": "https://x.com/yuganbb823/status/2067941748853416371/photo/1",
+              "media_key": "3_2067941742377304064",
+              "start": 41,
+              "url": "https://t.co/OT4kaPIqDC"
+            },
+            {
+              "display_url": "pic.x.com/OT4kaPIqDC",
+              "end": 64,
+              "expanded_url": "https://x.com/yuganbb823/status/2067941748853416371/photo/1",
+              "media_key": "3_2067941742385762304",
+              "start": 41,
+              "url": "https://t.co/OT4kaPIqDC"
+            },
+            {
+              "display_url": "pic.x.com/OT4kaPIqDC",
+              "end": 64,
+              "expanded_url": "https://x.com/yuganbb823/status/2067941748853416371/photo/1",
+              "media_key": "3_2067941742369013760",
+              "start": 41,
+              "url": "https://t.co/OT4kaPIqDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067941748853416371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们网上这群脑残要是不像包容那些傻逼一样包容我的话，那你们就死全家了，不好意思。 https://t.co/OT4kaPIqDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 240,
+          "like_count": 4122,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1982
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |最好的诡秘@ci_shang85157 | 我有一只小猫@Mikasuda765 | 一个小钰柠@mndfu1s7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "ci_shang85157"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "mndfu1s7"
+              }
+            ]
+          }
+        },
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2066064670331674897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 231,
+          "like_count": 4676,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

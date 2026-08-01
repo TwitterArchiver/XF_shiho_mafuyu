@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2069562185731518836",
+    "created_at": "2026-06-23T23:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T00:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069562185731518836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karmakarma1221…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/karmakarma1221/status/2068786786663346563",
+          "start": 10,
+          "url": "https://t.co/eb94rnUa0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069562185731518836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068786786663346563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恐怖恐怖啊草好尴尬 https://t.co/eb94rnUa0y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2069562185731518836",
+        "created_at": "2026-06-23T23:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069562185731518836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karmakarma1221…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/karmakarma1221/status/2068786786663346563",
+              "start": 10,
+              "url": "https://t.co/eb94rnUa0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069562185731518836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068786786663346563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恐怖恐怖啊草好尴尬 https://t.co/eb94rnUa0y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838620535804317696",
+        "conversation_id": "2068786786663346563",
+        "created_at": "2026-06-21T20:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068786786663346563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068786786663346563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4380,
+          "like_count": 80,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "药和酒最恐怖的点是认知篡改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是喜欢你\n\n天使與你相比 實在是遜色得多呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 246,
+          "like_count": 4394,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2063
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T16:44:40.000Z",
+        "description": "我是蛞蝓 这里是一片狼籍 女孩子们可以和我扩列^^",
+        "id": "1838620535804317696",
+        "location": "公共厕所",
+        "name": "蛞蝓神膜拜膜拜",
+        "pinned_tweet_id": "2045369414632276022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068374958074413056/lXNJV8S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 618,
+          "like_count": 859,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 2602
+        },
+        "url": "",
+        "username": "karmakarma1221",
+        "verified": false
+      }
+    ]
+  }
+}

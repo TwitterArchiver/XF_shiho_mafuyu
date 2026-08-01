@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2075520236602966117",
+    "created_at": "2026-07-10T09:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075520236602966117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angel_ovo27/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/angel_ovo27/status/2074878168058781860",
+          "start": 16,
+          "url": "https://t.co/dCTx26ZYW3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075520236602966117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074878168058781860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想这样但是好孤独啊我受不住 https://t.co/dCTx26ZYW3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2075520236602966117",
+        "created_at": "2026-07-10T09:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075520236602966117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angel_ovo27/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/angel_ovo27/status/2074878168058781860",
+              "start": 16,
+              "url": "https://t.co/dCTx26ZYW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075520236602966117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074878168058781860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想这样但是好孤独啊我受不住 https://t.co/dCTx26ZYW3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2074878168058781860",
+        "created_at": "2026-07-08T15:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074878168058781860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074878168058781860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8783,
+          "like_count": 203,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "我现在谁都不想要了，我再也不要社交了，我想把所有的人都删掉，都好讨厌啊，都好讨厌，我只想和自己玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 239,
+          "like_count": 6253,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2500
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 66,
+          "like_count": 2668,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5288
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "angel_OvO27",
+        "verified": false
+      }
+    ]
+  }
+}
