@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T06:23:53",
+  "last_updated": "2026-08-01T06:24:51",
   "html": {
     "https://web.archive.org/web/20260525072736if_/https://twitter.com/XF_shiho_mafuyu/status/2058812210328240620": {
       "status": "done",
@@ -5729,18 +5729,18 @@
       "referenced_by": [
         "20260601132056_twitter_com_XF_shiho_mafuyu_status_2061437846381371516.json"
       ],
-      "last_updated": "2026-08-01T05:37:58",
+      "last_updated": "2026-08-01T06:24:32",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260601132056/https://video.twimg.com/amplify_video/2061346623129866240/vid/avc1/720x1280/dVprs287NH5aB7M2.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2065589628225417216/pu/vid/avc1/720x1280/xLzEJD-DoxI-WRGs.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260613044910_twitter_com_XF_shiho_mafuyu_status_2065657710637683113.json"
       ],
-      "last_updated": "2026-08-01T05:37:58",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260613044910/https://video.twimg.com/ext_tw_video/2065589628225417216/pu/vid/avc1/720x1280/xLzEJD-DoxI-WRGs.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-08-01T06:24:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613044910if_/https://video.twimg.com/ext_tw_video/2065589628225417216/pu/vid/avc1/720x1280/xLzEJD-DoxI-WRGs.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5271dbb8f0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2029600897139924992/vid/avc1/250x240/1J5o-jEvFdxBXxTn.mp4": {
       "status": "done",
@@ -5848,13 +5848,13 @@
       "last_updated": "2026-08-01T05:37:59"
     },
     "https://video.twimg.com/ext_tw_video/2070976483615449088/pu/vid/avc1/720x1280/Yycr4WcecJBgwckw.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260628100304_twitter_com_XF_shiho_mafuyu_status_2071172521773183408.json"
       ],
-      "last_updated": "2026-08-01T05:37:59",
-      "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260705141717/https://video.twimg.com/ext_tw_video/2070976483615449088/pu/vid/avc1/720x1280/Yycr4WcecJBgwckw.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-08-01T06:24:51",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260628100304if_/https://video.twimg.com/ext_tw_video/2070976483615449088/pu/vid/avc1/720x1280/Yycr4WcecJBgwckw.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5271df2cf0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2071173393697603584/vid/avc1/720x1280/jH26jc6PeOP8v-dm.mp4": {
       "status": "done",
@@ -11826,7 +11826,7 @@
       "last_updated": "2026-08-01T05:38:36"
     },
     "20260613044910_twitter_com_XF_shiho_mafuyu_status_2065657710637683113.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -11837,7 +11837,7 @@
           "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T05:38:36"
+      "last_updated": "2026-08-01T06:24:40"
     },
     "20260613050209_twitter_com_XF_shiho_mafuyu_status_2065660975836287375.json": {
       "status": "done",
@@ -16039,7 +16039,7 @@
       "last_updated": "2026-08-01T05:38:36"
     },
     "20260628100304_twitter_com_XF_shiho_mafuyu_status_2071172521773183408.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -16050,7 +16050,7 @@
           "https://pbs.twimg.com/profile_images/2064966794545119232/Qh8Rjxnq_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-01T05:38:42"
+      "last_updated": "2026-08-01T06:24:51"
     },
     "20260628100526_twitter_com_XF_shiho_mafuyu_status_2071173116097699967.json": {
       "status": "done",
