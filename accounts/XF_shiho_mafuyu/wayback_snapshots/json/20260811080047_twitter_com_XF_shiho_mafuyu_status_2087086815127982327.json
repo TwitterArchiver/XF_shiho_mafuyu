@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2086812437219586185",
+    "created_at": "2026-08-11T08:00:47.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087086815127982327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1859523475670695941",
+          "start": 0,
+          "username": "yan93510742972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087086815127982327",
+    "in_reply_to_user_id": "1859523475670695941",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086812437219586185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan93510742972 啊啊啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2086812404352954368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXY00pWMAADtUF.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2500,
+        "media_key": "3_2086812321221902336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXYv-9XAAAUVaU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2086812437219586185",
+        "created_at": "2026-08-11T08:00:47.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087086815127982327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1859523475670695941",
+              "start": 0,
+              "username": "yan93510742972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087086815127982327",
+        "in_reply_to_user_id": "1859523475670695941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086812437219586185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan93510742972 啊啊啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086812404352954368",
+            "3_2086812321221902336"
+          ]
+        },
+        "author_id": "1859523475670695941",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086812437219586185",
+        "created_at": "2026-08-10T13:50:30.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086812437219586185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0MprysgGx",
+              "end": 33,
+              "expanded_url": "https://x.com/yan93510742972/status/2086812437219586185/photo/1",
+              "media_key": "3_2086812404352954368",
+              "start": 10,
+              "url": "https://t.co/E0MprysgGx"
+            },
+            {
+              "display_url": "pic.x.com/E0MprysgGx",
+              "end": 33,
+              "expanded_url": "https://x.com/yan93510742972/status/2086812437219586185/photo/1",
+              "media_key": "3_2086812321221902336",
+              "start": 10,
+              "url": "https://t.co/E0MprysgGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086812437219586185",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086812404352954368"
+          },
+          {
+            "media_key": "3_2086812321221902336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像是快递组真爱粉 https://t.co/E0MprysgGx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "is_identity_verified": false,
+        "location": "氢溴酸右美沙芬",
+        "most_recent_tweet_id": "2087086815127982327",
+        "name": "小小小小风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021200224388341760/1783414004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 235,
+          "like_count": 6504,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-21T09:06:06.000Z",
+        "description": "元神牛逼",
+        "id": "1859523475670695941",
+        "is_identity_verified": false,
+        "location": "提瓦特",
+        "most_recent_tweet_id": "2086846172849664170",
+        "name": "ayy",
+        "pinned_tweet_id": "2022915454562603092",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859523475670695941/1766251370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024179549165277187/kJal29CB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 126,
+          "like_count": 12425,
+          "listed_count": 0,
+          "media_count": 644,
+          "tweet_count": 3126
+        },
+        "url": "",
+        "username": "yan93510742972",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

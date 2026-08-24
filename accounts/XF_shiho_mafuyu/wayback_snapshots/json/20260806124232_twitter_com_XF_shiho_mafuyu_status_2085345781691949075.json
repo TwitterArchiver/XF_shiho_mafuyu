@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2085345781691949075",
+    "created_at": "2026-08-06T12:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085345781691949075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "905734073217318912",
+          "start": 3,
+          "username": "keelan8964"
+        },
+        {
+          "end": 28,
+          "id": "2029908828125548546",
+          "start": 16,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085345781691949075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085274172427825265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keelan8964: @bui_tu46916 藥圈沒有活著的傳奇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2085345781691949075",
+        "created_at": "2026-08-06T12:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085345781691949075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "905734073217318912",
+              "start": 3,
+              "username": "keelan8964"
+            },
+            {
+              "end": 28,
+              "id": "2029908828125548546",
+              "start": 16,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085345781691949075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085274172427825265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keelan8964: @bui_tu46916 藥圈沒有活著的傳奇。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "905734073217318912",
+        "conversation_id": "2085100613394989059",
+        "created_at": "2026-08-06T07:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085274172427825265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085274172427825265",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085100613394989059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 藥圈沒有活著的傳奇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 238,
+          "like_count": 6475,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-07T10:06:45.000Z",
+        "description": "中學生，queer they/she/it；純生活推噢 ；有幸與你共同見證這個時代。立場是溫和堅定與長久的愛；浪漫願他不要改 所信是模糊仍肯冀待～留低哪種意義，就看世間怎記載。alt acc @896for_ever (banned)；#八九六四",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 118,
+                "tag": "八九六四"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "896for_ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keelanlan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keelanlan",
+                "start": 0,
+                "url": "https://t.co/NLLzdUpoff"
+              }
+            ]
+          }
+        },
+        "id": "905734073217318912",
+        "location": "自由天安門 ",
+        "name": "蘭其連 Keelan",
+        "pinned_tweet_id": "2067881951411728450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066147896840364032/id-fwQnn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6865,
+          "following_count": 705,
+          "like_count": 7093,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/NLLzdUpoff",
+        "username": "keelan8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "location": "右美沙芬小道",
+        "name": "Exp cat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 319,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1031
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}
