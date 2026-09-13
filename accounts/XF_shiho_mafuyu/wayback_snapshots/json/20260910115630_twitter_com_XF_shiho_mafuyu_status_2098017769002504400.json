@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2098017769002504400",
+    "created_at": "2026-09-10T11:56:30.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T12:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098017769002504400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609183710330630145",
+          "start": 3,
+          "username": "XZdRbRugCrJNzRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098017769002504400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096537473891684566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XZdRbRugCrJNzRD: 不发推文就是抑郁了 发很多条就是狂躁了 没有在幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2098017769002504400",
+        "created_at": "2026-09-10T11:56:30.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098017769002504400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609183710330630145",
+              "start": 3,
+              "username": "XZdRbRugCrJNzRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098017769002504400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096537473891684566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XZdRbRugCrJNzRD: 不发推文就是抑郁了 发很多条就是狂躁了 没有在幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609183710330630145",
+        "conversation_id": "2096537473891684566",
+        "created_at": "2026-09-06T09:54:20.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096537473891684566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096537473891684566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 64818,
+          "like_count": 961,
+          "quote_count": 50,
+          "reply_count": 103,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "不发推文就是抑郁了 发很多条就是狂躁了 没有在幸福"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "is_identity_verified": false,
+        "location": "氢溴酸右美沙芬",
+        "most_recent_tweet_id": "2098017769002504400",
+        "name": "小小小小风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021200224388341760/1783414004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 209,
+          "like_count": 6528,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T13:45:12.000Z",
+        "description": "脑子不好，抑郁症，智力低下",
+        "id": "1609183710330630145",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2098017137868816415",
+        "name": ".942",
+        "pinned_tweet_id": "2095494751260934507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609183710330630145/1776523119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314305045270528/dfVEkO0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 841,
+          "like_count": 21435,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 9267
+        },
+        "url": "",
+        "username": "XZdRbRugCrJNzRD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
