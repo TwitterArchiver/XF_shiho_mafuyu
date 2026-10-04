@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2104241993497108548",
+    "created_at": "2026-09-27T16:09:20.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104241993497108548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xfurina_/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/xfurina_/status/2104124795365507356",
+          "start": 11,
+          "url": "https://t.co/JI0jlXdq81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104241993497108548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104124795365507356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猎奇死了这啥鸡吧医院 https://t.co/JI0jlXdq81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2104124787610247168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNaWKCaYAAQ8Vp.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2104241993497108548",
+        "created_at": "2026-09-27T16:09:20.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104241993497108548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xfurina_/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/xfurina_/status/2104124795365507356",
+              "start": 11,
+              "url": "https://t.co/JI0jlXdq81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104241993497108548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104124795365507356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猎奇死了这啥鸡吧医院 https://t.co/JI0jlXdq81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104124787610247168"
+          ]
+        },
+        "author_id": "1816764930219212802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104124795365507356",
+        "created_at": "2026-09-27T08:23:38.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104124795365507356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AcpVC3h7W",
+              "end": 28,
+              "expanded_url": "https://x.com/xFurina_/status/2104124795365507356/photo/1",
+              "media_key": "3_2104124787610247168",
+              "start": 5,
+              "url": "https://t.co/5AcpVC3h7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104124795365507356",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104124787610247168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2546,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太逆天了 https://t.co/5AcpVC3h7W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "is_identity_verified": false,
+        "location": "氢溴酸右美沙芬",
+        "most_recent_tweet_id": "2104241993497108548",
+        "name": "小小小小风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021200224388341760/1783414004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 219,
+          "like_count": 6635,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-26T09:18:14.000Z",
+        "description": "我永远最爱的姐姐@Kuriyona\n10 后mtf｜ 来和我互fo啦～家长反对党\n爱每一个友好的宝宝！\n可以和我聊天交友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "candyrect.com",
+                "end": 23,
+                "expanded_url": "http://candyrect.com",
+                "start": 0,
+                "url": "https://t.co/YZnQ6u9X6x"
+              }
+            ]
+          }
+        },
+        "id": "1816764930219212802",
+        "is_identity_verified": false,
+        "location": "兰州",
+        "most_recent_tweet_id": "2104124795365507356",
+        "name": "鱼块糯🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816764930219212802/1731593525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079946819124240384/GDu6AkgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 1144,
+          "like_count": 3031,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/YZnQ6u9X6x",
+        "username": "xFurina_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2104492561897492641",
+    "created_at": "2026-09-28T08:45:00.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104492561897492641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/samiz_hylx/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/samiz_hylx/status/2104472061980897305",
+          "start": 10,
+          "url": "https://t.co/PfopBHsV8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104492561897492641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104472061980897305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼666支持一把 https://t.co/PfopBHsV8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2104472018175557632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTSWJosagAAWbj-.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2104492561897492641",
+        "created_at": "2026-09-28T08:45:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104492561897492641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samiz_hylx/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/samiz_hylx/status/2104472061980897305",
+              "start": 10,
+              "url": "https://t.co/PfopBHsV8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104492561897492641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104472061980897305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼666支持一把 https://t.co/PfopBHsV8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104472018175557632"
+          ]
+        },
+        "author_id": "1941899369323868160",
+        "conversation_id": "2104472061980897305",
+        "created_at": "2026-09-28T07:23:33.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104472061980897305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "七絵画"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8NjSIID75",
+              "end": 28,
+              "expanded_url": "https://x.com/Samiz_HYLX/status/2104472061980897305/photo/1",
+              "media_key": "3_2104472018175557632",
+              "start": 5,
+              "url": "https://t.co/O8NjSIID75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104472061980897305",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104472018175557632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 333,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "#七絵画 https://t.co/O8NjSIID75"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "is_identity_verified": false,
+        "location": "氢溴酸右美沙芬",
+        "most_recent_tweet_id": "2104492561897492641",
+        "name": "小小小小风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021200224388341760/1783414004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 219,
+          "like_count": 6643,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2667
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-06T16:37:51.000Z",
+        "description": "Godot 勉強中(CN)\n\"変わりゆくものと、変わらぬものに捧ぐ\"\n\n私はこの震える世界を感じることができないから、どうか私に聞かせてください、他人の夢はどこにあるのか",
+        "id": "1941899369323868160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104486514298409269",
+        "name": "Samiz",
+        "pinned_tweet_id": "1947217577660535113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1941899369323868160/1771596743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062446449502347264/bhmHwrBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 16,
+          "like_count": 4911,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "Samiz_HYLX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

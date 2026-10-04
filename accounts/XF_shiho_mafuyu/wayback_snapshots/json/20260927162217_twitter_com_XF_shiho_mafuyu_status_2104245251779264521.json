@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2021200224388341760",
+    "conversation_id": "2104245251779264521",
+    "created_at": "2026-09-27T16:22:17.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104245251779264521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2083608195587874816",
+          "start": 3,
+          "username": "OuOshize666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104245251779264521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103878887742869614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OuOshize666: 如果有时间回溯能力我就杀杀杀好多人然后再自杀继续过日子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2104245251779264521",
+        "created_at": "2026-09-27T16:22:17.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104245251779264521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2083608195587874816",
+              "start": 3,
+              "username": "OuOshize666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104245251779264521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103878887742869614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OuOshize666: 如果有时间回溯能力我就杀杀杀好多人然后再自杀继续过日子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083608195587874816",
+        "conversation_id": "2103878887742869614",
+        "created_at": "2026-09-26T16:06:29.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103878887742869614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103878887742869614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果有时间回溯能力我就杀杀杀好多人然后再自杀继续过日子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "=小风 直fo是暗恋泥\n\n长期画画卖艺\n人很善良非常闲可以找我闲聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E9%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E9%A3%8E%E9%A3%8E",
+                "start": 0,
+                "url": "https://t.co/ORIb6CZokK"
+              }
+            ]
+          }
+        },
+        "id": "2021200224388341760",
+        "is_identity_verified": false,
+        "location": "氢溴酸右美沙芬",
+        "most_recent_tweet_id": "2104245251779264521",
+        "name": "小小小小风",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021200224388341760/1783414004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047239920516034560/elpqfODP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 219,
+          "like_count": 6638,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/ORIb6CZokK",
+        "username": "XF_shiho_mafuyu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T17:39:00.000Z",
+        "description": "08 大一 双相情感障碍/重度焦虑/adhd\n神聖かまってちゃん最高！\n查成分互关\n匿名问答@OuOshizego",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "OuOshizego"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shize666",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shize666",
+                "start": 0,
+                "url": "https://t.co/VEU4O9i2SD"
+              }
+            ]
+          }
+        },
+        "id": "2083608195587874816",
+        "is_identity_verified": false,
+        "location": "都灵街",
+        "most_recent_tweet_id": "2104243943374536974",
+        "name": "矢澤源義二代目",
+        "pinned_tweet_id": "2083997953522536900",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083608195587874816/1785609860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083608603790094336/PkF9T3wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 158,
+          "like_count": 3675,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/VEU4O9i2SD",
+        "username": "OuOshize666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
